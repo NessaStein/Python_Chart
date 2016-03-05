@@ -1,10 +1,20 @@
 # -*- coding:utf-8 -*-
 from flask import Flask,render_template
+import ConfigParser
 import MySQLdb as mysql
 import json
 
+#载入数据库配置信息
+cf = ConfigParser.ConfigParser()
+cf.read("config/common.ini")
+db_host = cf.get("db","db_host")
+db_port = cf.get("db","db_port")
+db_user = cf.get("db","db_user")
+db_pass = cf.get("db","db_pass")
+db_database = cf.get("db","db_database")
+
 try:
-    conn = mysql.connect(host='host',user='user',passwd='pass',db='spider_chart',port=3306)
+    conn = mysql.connect(host=db_host,user=db_user,passwd=db_pass,db=db_database,port=int(db_port))
     cur=conn.cursor()
 except mysql.Error,e:
     print "Mysql Error %d: %s" % (e.args[0], e.args[1])

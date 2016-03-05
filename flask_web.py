@@ -24,13 +24,14 @@ except mysql.Error,e:
 
 app = Flask(__name__)
 
+#查看每个频道图表展现的路由
 @app.route('/<group_name>')
-
 def index(group_name):
     return render_template('index.html',group_name=group_name)
 
-@app.route('/groups')
 
+#获取所有推送频道的路由
+@app.route('/groups')
 def groups():
     sql = 'select group_name from groups'
     cur.execute(sql)
@@ -40,8 +41,8 @@ def groups():
     return json.dumps(arr)
 
 
+#获取每个频道推送数据的路由
 @app.route('/data/<group_name>')
-
 def data(group_name):
     global cur
     sql = 'select time_hour,auto_check_count,no_check_count from cms_pull_logs where group_name="%s"' % (group_name)
@@ -50,8 +51,6 @@ def data(group_name):
     for i in cur.fetchall():
         arr.append([i[0]*1000,i[1]+i[2]])
     return json.dumps(arr)
-
-
 
 
 

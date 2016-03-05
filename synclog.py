@@ -6,7 +6,7 @@ import MySQLdb as mysql
 
 #数据库连接
 try:
-    conn = mysql.connect(host='192.168.30.71',user='cms_admin',passwd='cms_admin123',db='spider_chart',port=3309)
+    conn = mysql.connect(host='host',user='user',passwd='pass',db='spider_chart',port=3306)
     cur=conn.cursor()
 except mysql.Error,e:
     print "Mysql Error %d: %s" % (e.args[0], e.args[1])

@@ -1,52 +1,70 @@
-group:mili--autocheck:1--category:11065468--title:中国军火被曝获东盟一国青睐 性能直追德巨头--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:中俄就美部署萨德与美韩当面交锋 中方亮底线--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:日媒：对付中国不能光靠美 日本也要积极行动--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美防长：中国行动咄咄逼人 美有决心保卫南海--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:专家：美纠集盟友对华施压 中美走向十字路口--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:中国空军2030年超过美国？美方就是想要涨军费--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美军日裔司令让南海更紧张 中国公众很不喜欢--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:朝遭遇安理会最严制裁 金正恩：随时发射核弹头--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:港媒：中国造航母仍为防御 不太可能部署南海--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美报告称中国将在南海划两个识别区 推测范围--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:澳前外长反对澳军巡航南海：澳真想当治安官？--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:五大改进让轰6K脱胎换骨 能挂载6枚长剑10导弹--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:专家：美欲用六代机维系空中霸权 反制中国军力--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 08:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:拉登逃亡多年未被捕有绝招：不是阴天不出门--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:02--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:俄外交部：望美国权衡在韩部署“萨德”的代价--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:日本积极培训女战机飞行员 应对紧急拦截任务--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:韩媒：美国两栖攻击舰抵韩 将参加韩美联合军演--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美军斯坦尼斯号航母驶入南海巡航 美军重兵集结--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:印度陆军开始接收国产新型突击步枪 替换英萨斯--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:韩国第七艘KSS-2型潜艇命名 计划今年4月下水--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美海军计划2019-2023年造10艘弗吉尼亚级核潜艇--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:以色列采用弹道导弹技术发展防区外空对地导弹--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:军报：全国两会将聚焦台海和平 台代表有备而来--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:中国战机驱离闯领空敌机 对头飞到10余公里距离 --ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美军航母战斗群进入南海 称对中国发明确信号--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:12:04--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:伊斯坦布尔发生警车遭袭事件 未导致人员伤亡--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:32:02--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:俄超七成人支持普京续当总统 达近4年来最高点--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:政协委员：全球首颗量子科学实验卫星7月发射--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美国防部邀黑客攻击五角大楼 称助加强数码防御--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 09:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:东部战区司令透露战区主要工作：东海准备打仗--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:12:02--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:北京军区善后办全面核查：个别单位故意漏报车辆--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:老兵捍卫雷锋遭网站压制：1帖发78遍才审核通过--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:武警部队首长机关新编制体制运行 大力“学训整”--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:日媒：印尼或购中国防空系统 称比欧洲产品还好--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:解放军机长忆低空突防兴奋不已：海水快涌进座舱--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:32:02--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:外交部：南海自由航行通畅 应关注日本核材料超量--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:32:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美军航母战斗群进入南海 称对中国发明确信号--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 10:52:02--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:火箭军为导弹挖“龙宫”曾遇险情 坑道坍塌--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 11:12:02--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:中国潜艇实现海上动态战备 极限齐射新反舰武器--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 11:12:02--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:特战营长与战友跳伞遇险 果断把危险留给自己--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 11:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:日媒：日本潜艇将停靠菲港口 意在南海牵制中国--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 11:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:美媒：俄雄心勃勃重整军备 研发第六第七代战机--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 11:12:03--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:韩媒：韩美成立工作组 正式全面启动萨德部署议程--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 11:39:10--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:ARJ21-700飞机首批接收/示范运营/客户服务商务合同签约--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 12:19:12--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:西安航空基地获批国家高端装备标准化试点--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 12:19:12--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:傅莹：中国在南沙扩建岛礁非常必要 人民支持--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 12:39:12--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:傅莹：今年中国军费预算保持增长 增幅在7%-8%间--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 12:39:12--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:傅莹：说中国在南海军事化是语言霸权 扣大帽子--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 12:39:12--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:1--category:11065468--title:ARJ21-700飞机审定工作汇报会在成都召开--ifbigpic:0--fromstr:huochetou--dt:2016-03-04 16:09:11--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:0--dt:2016-03-04 20:05:54--category:11172988--title:打炮看着挺简单：实拍火箭炮部队装弹射击--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
-group:mili--autocheck:0--dt:2016-03-04 20:15:54--category:11065468--title:大型水陆两栖飞机AG600今年完成总装 力争实现首飞--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
-group:mili--autocheck:0--dt:2016-03-04 20:15:54--category:11065468--title:大型水陆两栖飞机AG600研制大事记--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:08:25--category:11065468--title:原七大军区善后办主官全亮相：13名中将1名少将--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:08:25--category:11065468--title:中国海军近3年入列军舰29艘 含3艘052D驱逐舰--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:08:25--category:11065468--title:中方回应韩美军演：中国决不允许家门口生战生乱--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:08:26--category:11065468--title:日媒：日新潜艇隐身世界最强 将在东海监视中国--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:08:26--category:11065468--title:日官方发报告炒作中国威胁 称美军是华最大障碍--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:08:26--category:11065468--title:美媒：俄已对北约有压倒性优势 美欲调重兵应对--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:0--dt:2016-03-08 08:08:26--category:11172988--title:给劲：中国海军同时服役三艘新型坦克登陆舰--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:1--dt:2016-03-08 08:38:25--category:11065468--title:美媒：美向南海派小无敌舰队 就是要对抗中国--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:38:25--category:11065468--title:军方：美航母赴南海是推行军事化 中方掌控情况--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:38:25--category:11065468--title:美媒曝F-35致命隐患：中国已掌握其发动机设计--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:38:25--category:11065468--title:日前将领：若冲绳没美军基地 中国马上来占领--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 08:38:26--category:11065468--title:俄媒：中国为全球行动造浮船坞 技术直追美国--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:25--category:11065468--title:解放军培养女飞数量世界第一 两名女航天员升空--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:25--category:11065468--title:杨成熙任中央军委纪委专职副书记 传达重要指示--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:25--category:11065468--title:拜登誓言挤出并损毁IS心脏 称反叛分子是懦夫--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:25--category:11065468--title:中国女兵赴海外维和 持枪在难民营巡逻保卫安全--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:26--category:11065468--title:菲媒：IS企图在菲南建根据地 趁乱局浑水摸鱼--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:26--category:11065468--title:军委国防动员部政委：迫切需要高素质人才参军--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:26--category:11065468--title:揭秘美国第6区基地 用于试验可侦测脏弹无人机--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:26--category:11065468--title:英警方：“伊斯兰国”可能正准备在英国发动恐袭--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:26--category:11065468--title:菲外长7日卸任 菲中关系恶化是其主要外交遗产--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:26--category:11065468--title:美韩军演让半岛恶性循环升级 更容易擦枪走火--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:08:27--category:11065468--title:外媒：民企为解放军“瘦身” 3个月帮军队省千万--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:0--dt:2016-03-08 09:08:27--category:11172988--title:跟着美航母闯南海的蓝岭号有何奥秘--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 09:08:32--category:11172988--title:这种飞机创造过16项世界纪录 中国仿制失败--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 09:08:43--category:11172988--title:美航母编队旗舰竟连亚音速靶弹都拦不住--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 09:08:48--category:11172988--title:阵容强大！中国海军近3年新入列舰艇集锦--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 09:09:06--category:11172988--title:国产99A大改新型主战坦克生产车间画面曝光--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 09:09:10--category:11172988--title:韩美两军开始大规模联合演习 拉出重炮群助阵--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 09:09:11--category:11172988--title:“中国黑水”保镖营开训 学员真实格斗打出血--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:1--dt:2016-03-08 09:38:25--category:11065468--title:美媒：中国量子通信世界领先 或可抵挡任何入侵--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 09:38:25--category:11065468--title:俄拟2018年造大型登陆舰 2030年前接收核航母--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 10:08:25--category:11065468--title:军队代表：警惕任何“台独”苗头遏制分裂行径--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 10:08:25--category:11065468--title:原济空部队转隶3个战区 原北海舰队政委调任空军--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 10:08:25--category:11065468--title:少将谈走留：名利得失看不透怎么指望你流血牺牲--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 10:08:25--category:11065468--title:日媒：印正在研发绝密潜射导弹 射程5000公里 --ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 10:08:25--category:11065468--title:中国将发射类似哈勃“光学舱” 视场是哈勃300倍--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:0--dt:2016-03-08 10:08:26--category:11172988--title:南海交锋！中国舰艇抵近监视美航母战斗群--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 10:08:29--category:11172988--title:美国海军曝光南海遭中国战舰“包围”高清照--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:1--dt:2016-03-08 10:38:25--category:11065468--title:辽宁舰首位女士官长：收发报文5千多条“零错率”--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 10:38:25--category:11065468--title:中国激光新成果国际领先 打破美国保持4年纪录--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 10:38:25--category:11065468--title:日外相反驳联合国就慰安妇问题见解 称证据不足--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:08:25--category:11065468--title:王毅：南海军事化扣不到中国头上 有国家更合适--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:08:25--category:11065468--title:王毅：中方不会坐视朝鲜半岛稳定受到根本破坏--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:08:25--category:11065468--title:王毅：中国提出与东盟建海上紧急事态外交热线--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:08:25--category:11065468--title:王毅：中国海外资产已达数万亿 探索维权之路--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:08:25--category:11065468--title:王毅：菲提南海仲裁有幕后指使 中国恕不奉陪--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:08:25--category:11065468--title:王毅：历史终会证明谁是南海过客谁是真正主人--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:0--dt:2016-03-08 11:08:26--category:11172988--title:荷兰公司训练老鹰空中捕捉“敌对无人机”--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 11:08:27--category:11172988--title:详解重要国家近年军费：中国军费占比偏少--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 11:08:29--category:11172988--title:三八节特辑：心连军营的最美女人--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 11:08:34--category:11172988--title:带刺玫瑰！特战女兵练搏击踩战友肩翻墙--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:1--dt:2016-03-08 11:38:25--category:11065468--title:未来五年中国要上100件大项目 航空发动机居首--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:38:25--category:11065468--title:中方回应韩美军演：中国决不允许家门口生战生乱--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:1--dt:2016-03-08 11:38:25--category:11065468--title:美媒：中国量子通信世界领先 或可抵挡任何入侵--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:0--dt:2016-03-08 12:08:25--category:11172988--title:森警花样轮胎比武：咬牙背拽 另类拔河--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 12:08:27--category:11172988--title:海军21批护航编队凯旋 处置56艘次疑海盗船--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 12:08:30--category:11172988--title:“下饺子”：海军近年服役新型战舰超过30艘--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 12:08:33--category:11172988--title:战备程度很高：韩军K-1主战坦克部队实战演练--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 12:08:35--category:11172988--title:日本第七艘先进苍龙级AIP潜艇完工移交防卫省--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:1--dt:2016-03-08 12:18:25--category:11065468--title:细数“十三五”规划纲要草案中的航空看点--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:0--dt:2016-03-08 13:08:24--category:11172988--title:英军最新型AJAX数字化装甲战车造型很帅啊--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 13:08:28--category:11172988--title:带刺玫瑰！特战女兵擒拿格斗捕俘攀登样样强--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 13:08:30--category:11172988--title:澳海军拦截渔船搜出大量56步枪PK机枪与火箭筒--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:1--dt:2016-03-08 13:38:24--category:11065468--title:王毅回应“半岛若开战中国是否会再抗美援朝”--ifbigpic:0--fromstr:huochetou--s:44c64050cfb071706d713bc2b6fb7996
+group:mili--autocheck:0--dt:2016-03-08 14:08:24--category:11172988--title:中国海军167深圳舰最新改装进展：舰炮装上了--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 14:08:27--category:11172988--title:俄军郁闷：经费被削减无法扩充空降兵只得放弃--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 14:08:27--category:11172988--title:哥俩好并肩战：我军99式主战坦克双车玩横炮--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 14:08:28--category:11172988--title:2016年度红旗军演开战：F-22与F-16成群集结--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db
+group:mili--autocheck:0--dt:2016-03-08 14:08:30--category:11172988--title:俄军五彩斑斓战车大比拼 冲出硝烟爬陡坡--ifbigpic:1--fromstr:huochetou--s:a78bfb977aab94c3ca963aa994f865db

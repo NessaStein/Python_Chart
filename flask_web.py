@@ -19,9 +19,6 @@ try:
 except mysql.Error,e:
     print "Mysql Error %d: %s" % (e.args[0], e.args[1])
 
-
-
-
 app = Flask(__name__)
 
 #查看每个频道图表展现的路由
@@ -42,14 +39,32 @@ def groups():
 
 
 #获取每个频道推送数据的路由
-@app.route('/data/<group_name>')
-def data(group_name):
+@app.route('/data/<group_name>/<tag>')
+def data(group_name,tag):
     global cur
-    sql = 'select time_hour,auto_check_count,no_check_count from cms_pull_logs where group_name="%s"' % (group_name)
-    cur.execute(sql)
+    tag_list = ['cmspull','spiderpush','spidergrab']
     arr = []
-    for i in cur.fetchall():
-        arr.append([i[0]*1000,i[1]+i[2]])
+    if tag in tag_list:
+        if tag == 'cmspull':
+            pull_sql = 'select time_hour,auto_check_count,no_check_count from cms_pull_logs where group_name="%s"' % (group_name)
+            cur.execute(pull_sql)
+            for i in cur.fetchall():
+                arr.append([i[0]*1000,i[1]+i[2]])
+
+        if tag == 'spiderpush':
+            push_sql = 'select time_hour,sum(push_count) as push_count from spider_push_logs where group_name="%s" group by time_hour' % (group_name)
+            cur.execute(push_sql)
+            for j in cur.fetchall():
+                print j[1]
+                arr.append([j[0]*1000,int(j[1])])
+
+        if tag == 'spidergrab':
+            grab_sql = 'select time_hour,grab_count from spider_grab_logs where group_name="%s"' % (group_name)
+            cur.execute(grab_sql)
+            for k in cur.fetchall():
+                arr.append([k[0]*1000,k[1]])
+
+
     return json.dumps(arr)
 
 

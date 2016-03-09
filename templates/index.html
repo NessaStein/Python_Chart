@@ -1,5 +1,6 @@
 <html>
 <head>
+    <title>火车头抓取推送实时监控</title>
     <script src="static/jquery.js"></script>
     <script src="static/highstock.js"></script>
     <script src="static/exporting.js"></script>
@@ -11,12 +12,18 @@
     <div id="demo_content">
         <p id="group_html">频道:  </p>
         <input id="group_name" type="hidden" value="{{group_name}}"></input>
-        <div id="container" style="height: 400px; min-width: 310px"></div>
+        <div id="container" style="height: 400px; min-width: 310px;"></div>
     </div>
 </div>
 <script>
+    Highcharts.setOptions({ global: { useUTC: false } });
     $(function () {
-        Highcharts.setOptions({
+        var seriesOptions = [],
+        seriesCounter = 0,
+        names = ['cmspull', 'spiderpush', 'spidergrab'],
+        // create the chart when all data is loaded
+        createChart = function () {
+            Highcharts.setOptions({
             lang: {
                　 printChart:"打印图表",
                   downloadJPEG: "下载JPEG 图片" ,
@@ -24,27 +31,49 @@
                   downloadPNG: "下载PNG 图片"  ,
                   downloadSVG: "下载SVG 矢量图" ,
                   exportButtonTitle: "导出图片"
-            }
-        });
-        var group_name = $("#group_name").val();
-        $.getJSON('/data/'+group_name, function (data) {
-            // Create the chart
+                }
+            });
             $('#container').highcharts('StockChart', {
-                rangeSelector : {
-                    selected : 1
+
+                rangeSelector: {
+                    selected: 4
                 },
 
                 title : {
                     text : '火车头监控'
                 },
 
-                series : [{
-                    name : '总计',
-                    data : data,
-                    tooltip: {
-                        valueDecimals: 1
-                    }
-                }]
+                tooltip: {
+                    valueDecimals: 0
+                },
+
+                series: seriesOptions
+            });
+        };
+        var group_name = $("#group_name").val();
+        $.each(names, function (i, name) {
+
+            $.getJSON('/data/'+group_name+ '/' + name.toLowerCase(),    function (data) {
+
+                if(name=='cmspull'){
+                    name = 'CMS接收数'
+                }
+                if(name=='spiderpush'){
+                    name = '火车头推送数'
+                }
+                if(name=='spidergrab'){
+                    name = '火车头抓取数'
+                }
+                seriesOptions[i] = {
+                    name: name,
+                    data: data
+                };
+
+                seriesCounter += 1;
+
+                if (seriesCounter === names.length) {
+                    createChart();
+                }
             });
         });
         $.getJSON('/groups', function (data) {

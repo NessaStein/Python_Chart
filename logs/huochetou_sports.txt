@@ -1,48 +1,599 @@
-group:sports--autocheck:1--dt:2016-03-05 00:15:53--category:11127706--title:拜纳姆哀叹：没人比我更失望 如果我能打广东会赢--ifbigpic:0--fromstr:huochetou--s:a1933ddc06682dce7ce888d4df061642
-group:sports--autocheck:1--dt:2016-03-05 00:15:53--category:11127706--title:王仕鹏：三个多月没打比赛 华仔受伤没办法去顶替--ifbigpic:0--fromstr:huochetou--s:a1933ddc06682dce7ce888d4df061642
-group:sports--autocheck:1--dt:2016-03-05 00:15:54--category:11127706--title:再进总决赛郭艾伦赛后哽咽 辽媒：幸福泪水不必忍--ifbigpic:0--fromstr:huochetou--s:a1933ddc06682dce7ce888d4df061642
-group:sports--autocheck:1--dt:2016-03-05 00:15:54--category:11127706--title:易建联：遗憾连续三年没进决赛 辽宁反击能力很强--ifbigpic:0--fromstr:huochetou--s:a1933ddc06682dce7ce888d4df061642
-group:sports--autocheck:1--dt:2016-03-05 00:15:55--category:11152421--title:
-                        豪华本土的辽宁VS黑马四川 总决赛开启新时代
+group:sports--autocheck:1--dt:2016-03-08 00:08:27--category:11152420--title:
+            希丁克：特里无法出战周中欧冠--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 00:08:28--category:11152420--title:
+            水晶宫中场：本特克靠跳水得点球--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 00:08:29--category:11152420--title:
+            瓦拉内：齐祖要我踢得更有侵略性--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 00:08:30--category:11152420--title:
+            佩佩：齐祖教练生涯必会获得成功--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 00:08:30--category:11152420--title:
+            西汉姆希望帕耶特说服巴舒亚伊加盟--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 00:08:31--category:11027241--title:CBA赛场上的国字号--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:32--category:11027241--title:女垒何所兴 女垒何所衰--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:32--category:11027241--title:他们在这里展示风采——2015－2016赛季男排联赛综述--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:33--category:11027241--title:联赛决赛气氛热烈 男排可以更火一点--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:33--category:11027241--title:俄航杯国象赛温阳保持不败--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:34--category:11027241--title:马晓春获两岸世界冠军特别对局--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:34--category:11027241--title:国际象棋女子世界冠军赛 侯逸凡领先穆兹丘克--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:35--category:11027241--title:中超新赛季多措并举 提升执法水平--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:35--category:11027241--title:张奕宸——联赛最矮副攻不简单--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:36--category:11027241--title:四川业余足球联赛全面启动--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:36--category:11027241--title:李盈莹：向着国手的方向努力--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:37--category:11027241--title:2016中超联赛拉开大幕--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:37--category:11027241--title:日足协宣布女足主帅下课 其曾带队获世界杯冠军--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:38--category:11027241--title:柯洁以三连胜终结对手三连胜 围棋擂台赛中国三连霸--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:38--category:11027241--title:柯洁新绰号“围棋队刘翔” 自称计算力超李世石--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 00:08:39--category:11172837--title:火箭弃将正式签约步行者 将辅佐泡椒参加季后赛--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 00:28:26--category:11127824--title:异构神机发布会--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 01:08:27--category:11027241--title:里约，走起！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 01:08:27--category:11027241--title:里约 中国女足来了--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 01:08:28--category:11027241--title:面对铺天盖地的赞美张玉宁会被“捧杀”吗--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 01:08:28--category:11152420--title:
+            苏亚雷斯梅西C罗打响金靴争夺战--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 01:08:29--category:11152420--title:
+            齐达内：卖C罗？我可不答应--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 01:08:30--category:11127691--title:新华社：女足重归奥运 中国足球值得珍视的光荣--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 01:08:31--category:11127691--title:北京女足教练：比赛积累 主帅决定女足提前出线--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 01:08:32--category:11127691--title:刘英：提前出线并非偶然　希望女足奥运进前4名--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:0--dt:2016-03-08 01:08:32--category:11127824--title:国乒将士凯旋回京 球迷热情接机--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 02:08:26--category:11027241--title:曼联输球争四受挫--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 02:08:27--category:11027241--title:玫瑰之约 来啦！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 02:08:27--category:11027241--title:张玉宁荷甲进球--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 02:08:28--category:11027241--title:现在的巴萨随便刷纪录--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 02:08:28--category:11027241--title:范加尔缺的是气质--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 02:08:29--category:11027241--title:库里 你是科蜜吧--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 02:08:30--category:11152420--title:
+            莫耶斯：来意甲执教？为什么不呢--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 03:08:26--category:11027241--title:根特欲复制波尔图奇迹“双马会”皇马领先--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 03:08:27--category:11027241--title:中国女足八年铸剑--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 03:08:30--category:11172837--title:官方实力榜：勇士榜首骑士第3 火箭NO.19湖人28--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 04:08:26--category:11027241--title:8年后，铿锵玫瑰重返奥运赛场--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 04:08:26--category:11027241--title:江苏女足为何无人入选国家队？球员断档和伤病是主要原因--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 04:08:27--category:11027241--title:相约罗兰加洛斯 法网青少年组外卡赛战火重燃--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 04:08:27--category:11027241--title:中国女足杀进里约奥运不是终点 刘英希望其进四强--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 04:08:28--category:11127691--title:出线后女足姑娘走廊飙舞 韩国主帅：恭喜中国队--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 04:08:28--category:11127691--title:奥运梦成真马晓旭失声痛哭 直言因热爱才能坚持--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 04:08:29--category:11127691--title:布鲁诺催化球队 上任不足半年女足16战仅有1负--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 04:08:30--category:11127691--title:女足进军奥运会别背包袱 李冬娜：希望保持状态--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 04:08:31--category:11127691--title:新华社：中国铿锵玫瑰绽放东瀛 女足是遇强则强--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 04:08:31--category:11127691--title:8年后铿锵玫瑰重返奥运赛场 前主帅郝伟送祝福--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 04:08:32--category:11127691--title:江苏女足为何无人进国家队 球员断档伤病是主因--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 04:08:32--category:11127691--title:女足杀进里约奥运不是终点 刘英希望女足进四强--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:0--dt:2016-03-08 04:08:33--category:11127824--title:曼宁召开退役发布会--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 04:08:33--category:11172837--title:马刺队宣布波波维奇缺阵两场 老爷子轮换自己？--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 04:48:26--category:11127824--title:莎娃宣布暂离开网坛--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 05:08:26--category:11027241--title:莎娃开发布会亲承澳网药检不合格 否认将退役--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 05:08:26--category:11027241--title:湖人制造常规赛史上大冷门--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 05:08:27--category:11027241--title:中国选手表现惊艳--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 05:08:27--category:11027241--title:郭文珺时隔21个月后再夺冠--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 05:08:28--category:11027241--title:新玉面杀手--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 05:08:28--category:11027241--title:澳大利亚战胜朝鲜 助中国女足提前出线--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 05:08:29--category:11027241--title:草皮“青黄不接”建业“主客对调”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 05:08:29--category:11027241--title:建业首轮奏凯三人入选最佳--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:0--dt:2016-03-08 05:08:30--category:11127800--title:莎娃一袭黑衣出席发布会 称澳网时未过药检--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:1--dt:2016-03-08 05:08:36--category:11143271--title:跑马途中什么感受？ 女跑者用表情来告诉你(图)--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 05:08:37--category:11172837--title:欧文回击？詹皇解释争议推特：紧张氛围不是坏事--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 05:08:37--category:11172837--title:曝尼克斯两年合同签费城弃将 重伤前场均17 3 5--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 05:08:38--category:11172837--title:詹皇伦纳德荣膺上周最佳球员 小乔丹韦德获提名--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 06:08:26--category:11027241--title:莎娃：因遗传病暂无法停药 忘看邮件酿成大错--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 06:08:26--category:11027241--title:莎娃否认将退役传言：不愿用这种方式说再见--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 06:08:27--category:11027241--title:多一秒都是煎熬啊！女足酒店走廊狂刷微信等赛果--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 06:08:27--category:11027241--title:国外网友力挺莎娃：相信她人品 望缩短禁赛期--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 06:08:28--category:11027241--title:央视遍访中日韩大师 吴清源曾算准只活100岁--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 06:08:29--category:11027241--title:中国人工智能欲挑战柯洁 回应：未考虑是否应战--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 06:08:30--category:11152420--title:
+            本特克：从未考虑离开利物浦--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 06:08:30--category:11152420--title:
+            奥里吉：克洛普要求我踢得更男人--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 06:08:31--category:11127691--title:拼8天又见“玫瑰”怒放 实力无优势状态越打越好--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 06:08:32--category:11127691--title:铿锵玫瑰男性化打法创惊喜 马晓旭回报主帅信任--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 06:08:32--category:11127691--title:女足为自己赢得信心和掌声 主帅：还有上升空间--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 06:08:32--category:11127691--title:布鲁诺曾与足协签“军令状” 情人节送球员玫瑰花--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:0--dt:2016-03-08 06:08:33--category:11127824--title:国内媒体聚焦女足闯入奥运会--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 07:08:26--category:11027241--title:莎娃禁赛期将于3月12日开始 或最多遭2年禁赛--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 07:08:26--category:11027241--title:WTA掌门人震惊莎娃服禁药 表态支持一切处罚--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 07:08:27--category:11027241--title:勒布朗生涯第51次当选周最佳 莱纳德成西部最佳--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 07:08:28--category:11152420--title:
+            前球员之女：英超至少7名同性恋--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 07:08:29--category:11152420--title:
+            曝曼联再次考察本菲卡新星桑谢斯--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 07:08:30--category:11152420--title:
+            贝拉因看演唱会逃训或被处罚--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 07:08:31--category:11152420--title:
+            曝莱斯特中场大将有望得丰厚新约--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 07:08:32--category:11152420--title:
+            耶罗：皇马不应该就此放弃联赛--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 07:08:33--category:11172948--title:火箭第三巨头遭弃加盟步行者 首秀战马刺--ifbigpic:0--fromstr:huochetou--s:7fd526094a6be29c2c135c63b8110105
+group:sports--autocheck:0--dt:2016-03-08 07:08:34--category:11173007--title:【龙套传奇】休斯顿拼命三郎苏英雄--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:1--dt:2016-03-08 07:09:09--category:11172949--title:欧文回击？詹皇解释争议推特：紧张氛围不是坏事--ifbigpic:0--fromstr:huochetou--s:879fd356283678f95c82e4caaa4a978d
+group:sports--autocheck:1--dt:2016-03-08 08:08:25--category:11027241--title:7日NBA精彩回顾--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:26--category:11027241--title:官方实力榜勇士继续领跑 骑士返前3黄蜂挤入前10--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:27--category:11027241--title:告诉你皇马球迷为何嘘C罗 要冠军不是金靴金球！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:27--category:11027241--title:迈卡威进行臀伤手术赛季将报销 预计需休战3个月--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:28--category:11027241--title:逆风飞扬--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:0--dt:2016-03-08 08:08:28--category:11027241--title:图文：8年风雨 玫瑰又见彩虹--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:29--category:11027241--title:NFL传奇四分卫曼宁正式退役 结束18年职业生涯--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:29--category:11027241--title:玫瑰赴“约”！女足进军奥运 为国争光不输80亿中超--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:30--category:11027241--title:科普莎娃药物：今年进入禁药名单 能提升耐久性--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:31--category:11027241--title:网坛名将莎拉波娃宣布未通过兴奋剂检测--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:31--category:11027241--title:勇士输湖人73胜概率暴跌 专家：马刺成最大拦路虎--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:32--category:11027241--title:曝雷霆本季无缘总决赛KD将离队 下家首选非勇士--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:33--category:11027241--title:斯诺克大奖赛8日开杆 丁俊晖等4名中国选手参赛--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:33--category:11027241--title:ROAD FC 2015三大经典：李允准PK崔武谦冠军之战--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:34--category:11027241--title:中国铿锵玫瑰绽放东瀛 时隔八年再进奥运--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:35--category:11027241--title:俄著名花滑选手药检不过关 将缺席世界杯--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:36--category:11027241--title:鲁尼迪拜度假同老虎嬉戏合影 外出已无需戴护膝--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:37--category:11027241--title:留洋小将张玉宁 荷甲处子球即绝杀--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:38--category:11027241--title:川媒驳川军仅靠3外：黑马色彩团队涂 主帅被低估--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:39--category:11027241--title:美奥委会为里约造势 时代广场将迎奥运倒计时--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:39--category:11027241--title:林丹德国赛摘金 中国队揽三项桂冠--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:40--category:11027241--title:C罗若能完成这五项指标 西甲送给梅西他也是赢家--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:40--category:11027241--title:布鲁诺替同胞佩兰长脸 女足重返奥运不能忘一人--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:41--category:11027241--title:波波维奇因“家庭医疗”缺阵2场 知情人：他无大碍--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:42--category:11027241--title:北京欲主场夺WCBA冠军 主帅：客场两胜树立了信心--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:42--category:11027241--title:ROAD FC公益活动落幕 鲜血只为传递梦想和正能量--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:43--category:11027241--title:女人节，你们是最美的玫瑰！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:44--category:11027241--title:国字号队伍突围将是中国女足整体复兴的催化剂--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:45--category:11027241--title:震惊！曝英超至少有7名同性恋 怕被歧视只能隐瞒--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:45--category:11027241--title:詹皇暗示骑士有矛盾 回击质疑：受过教育才会懂我--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:46--category:11027241--title:齐达内：不放C罗他是皇马非卖品 我踢球也被嘘过--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:47--category:11027241--title:NBA常规赛最大冷门诞生--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:47--category:11027241--title:外界质疑激发川军决心 球员：憋着劲用成绩来回击--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:48--category:11027241--title:刘英：提前出线并非偶然 希望女足奥运进前四--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:48--category:11027241--title:曝科比赛前爆粗激励队友：给我狠狠把勇士揍出X来--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:49--category:11027241--title:川篮重现全兴金牌球市 川媒：票价厚道不及辽一半--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:49--category:11027241--title:莎娃直面禁药令人敬佩 她的粗心让多少人难眠--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:50--category:11027241--title:勇士仍领跑ESPN实力榜 马刺紧随其后火箭排第15--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:50--category:11027241--title:足球评论员张路出任北京四中足球大使--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:51--category:11027241--title:阿森纳足总杯前瞻：誓破5场不胜怪圈 避18年之耻！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 08:08:56--category:11152420--title:
+            布斯克茨经纪人与巴萨开启续约谈判--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:08:57--category:11152420--title:
+            传热刺有信心今夏2000万签贝拉希诺--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:08:58--category:11152420--title:
+            传西汉姆联有意签枪手边锋张伯伦--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:08:58--category:11152420--title:
+            里皮：我从未想过齐达内会成为教练--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:08:59--category:11152420--title:
+            邮报：鲁尼恐无缘欧联杯双红会--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:09:00--category:11152420--title:
+            内马尔社交网络晒出新文身--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:09:01--category:11152420--title:
+            喀麦隆国门卡梅尼因伤赛季报销--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:09:01--category:11152420--title:
+            意媒：米哈决定本赛季后离开米兰--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 08:09:05--category:11152422--title:
+ITF官方确认：3月12日起莎拉波娃将被禁止参赛
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 08:09:05--category:11152422--title:
+莎娃违规或面临最高两年禁赛 或因此错过奥运会
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 08:09:06--category:11152422--title:
+网坛禁药风波：辛吉斯愤然退役 阿加西自传惹麻烦
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 08:09:06--category:11152422--title:
+斯诺克大奖赛8日开杆 丁俊晖等4名中国选手参赛 　
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 08:09:07--category:11152422--title:
+世界女子高尔夫球锦标赛将在东莞观澜湖举行
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 08:09:07--category:11152422--title:
+俄罗斯田协将对教练违规行为展开调查
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 08:09:08--category:11127691--title:铿锵玫瑰八年后重返奥运会 连克日韩提前出线 --ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 08:09:08--category:11127691--title:忘情欢呼！女足提前晋级里约奥运会赴玫瑰之约--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:0--dt:2016-03-08 08:09:08--category:11127800--title:【龙套传奇】休斯敦拼命三郎苏英雄--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 08:09:38--category:11127800--title:姚明的两会：独自坐走道 “四年不换衣服”--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 08:10:21--category:11127800--title:CBA车模情缘！陈露曾站台 晓宇女友上围傲人--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 08:11:21--category:11127800--title:有天才就缺他？！ 新疆争冠真要寻找“张春军”？--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:1--dt:2016-03-08 08:11:41--category:11172837--title:“高富帅”要回来？  帕森斯表示不排除重回火箭--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 08:11:41--category:11172837--title:科比传授“追梦”秘籍 鼓励格林做“混蛋”球员--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 08:48:25--category:11127824--title:辽宁主场球票开售 球迷购票排长龙--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 08:58:25--category:11127824--title:[常规赛]3月8日精彩赛况--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 08:58:26--category:11127824--title:[常规赛]灰熊VS骑士--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 08:58:27--category:11127824--title:辽宁宝贝身着复古球衣 盼主队拿下总决赛首胜--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 09:08:25--category:11127704--title:NBA最新实力榜：骑士升至第三 雷霆下跌三位--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:26--category:11127704--title:詹姆斯、莱昂纳德分获上周东西部最佳球员--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:26--category:11127704--title:NBA周最佳：骑士詹姆斯&amp;马刺伦纳德当选--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:27--category:11127704--title:神奇球袜让科比“击退”勇士 湖人爆冷以弱胜强--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:27--category:11127704--title:韦斯特再谈投马刺：损千万算啥 效力圣城价值更大--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:28--category:11127704--title:判罚报告：火箭两遭漏判仍赢球 小牛惨遭裁判狂黑--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:28--category:11127704--title:曝雷霆本季不夺冠阿杜必走 勇士还并非他首选？--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:29--category:11127704--title:悲剧！灰熊遇伤病潮半数打不了 康利兰多夫全缺席--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:29--category:11127704--title:官方周最佳：詹皇莱昂纳德当选 热火三将获提名--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:30--category:11127704--title:名宿：库里被质疑堪比魔术师 若穿越到过去仍无敌--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:31--category:11127704--title:实力榜：马刺紧追勇士骑士回前3 火箭19湖人28--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:31--category:11127704--title:“失职”？斯帅为忽视科比伤情检讨：总忘记讨论肩伤--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 09:08:32--category:11027241--title:中英校园足球交流面临机遇和挑战——专访中英校园足球项目负责人郑少强--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:32--category:11027241--title:中国女足提前获得奥运门票 等8年拼8天又见玫瑰怒放！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:33--category:11027241--title:体育时评：女足重归奥运 中国足球值得珍视的光荣！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:33--category:11027241--title:网坛禁药明星：辛吉斯选择退役 阿加西不打自招--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:34--category:11027241--title:心酸！回顾女足10年低谷期 “铿锵玫瑰”一度被遗忘--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:35--category:11027241--title:杜锋交出广东赛季总结：小将有进步 将签国青队长--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:36--category:11027241--title:粤媒：赵丽娜让人忘记王飞 日本没落亚洲女足变天--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:36--category:11027241--title:曝米哈不满老贝今夏将离职 米兰已敲定四大替身--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:37--category:11027241--title:互换东家？曝巴黎砸4000万挖DC 蓝军要反追卡瓦尼--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:38--category:11027241--title:京媒：女足选布鲁诺刮对彩票 恒大超级杯拿得不值--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:38--category:11027241--title:周鹏交总结忆光辉：昔日打球人多 无成绩别求物质--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:39--category:11027241--title:拜仁球探考察英超黑又硬 预防莱万今夏远走皇马--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:40--category:11027241--title:自己争气对手帮忙 中国女足提前锁定奥运会名额--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:41--category:11027241--title:接班科比or加入勇士？ 美媒列詹皇5大潜在下家--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:42--category:11027241--title:杜锋：任骏飞是广东赛季最大收获 周湛东可称奇兵--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:42--category:11027241--title:围棋人机大战明日落子 李世石vs谷歌奖金百万美元--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:43--category:11027241--title:贝尔欧冠球荒已达15个月 穿破洞球袜为避再受伤？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:45--category:11027241--title:前线记者：广东投入或超6000万 全CBA恐仅逊疆京--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:45--category:11027241--title:广东下季将再减老兵时间 朱八：还能为球队做很多--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:46--category:11027241--title:中国女足提前突围奥运预选赛 又让男足汗颜--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:47--category:11027241--title:莎拉波娃药检不过关面临禁赛 直言不想就此退役--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:48--category:11027241--title:ITF确认莎拉波娃3月12日起被禁赛 后续处罚待定--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:49--category:11027241--title:朱八：阵痛才刚开始 除阿联周鹏其他位置均需补强--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:49--category:11027241--title:莎拉波娃：我要对此负全部责任 不会因此退役--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:50--category:11027241--title:与莎娃一样！俄花滑名将药检不过关 无缘世界杯--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:50--category:11027241--title:渣叔有多牛？水货都能改名日天 7球4助看傻罗杰斯--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 09:08:55--category:11152420--title:
+            肌肉受伤，纳因戈兰也缺战皇马？--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 09:08:56--category:11152420--title:
+            詹金森回归阿森纳，与张伯伦合影--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 09:08:57--category:11152420--title:
+            巴萨高层来看球？多特主管：很正常--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 09:08:58--category:11152420--title:
+            阿莱格里：淘汰拜仁？并非不可能--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 09:08:59--category:11152420--title:
+            帕杜指责边裁恐遭英足总起诉--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 09:09:00--category:11152420--title:
+            阿莱格里：我肯定不会离开尤文--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 09:09:02--category:11127691--title:曝女足进奥运奖金800万 布鲁诺将带队冲世界杯--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 09:09:03--category:11152422--title:
+莎娃宣布因误服禁药暂离开 不退役力争重返赛场
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 09:09:03--category:11172837--title:太冷！强大勇士竟被湖人狂虐 赛后称其状态不佳--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 09:09:04--category:11172837--title:8日早报：太阳将签CBA旧将 迈卡威因伤赛季报销--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 09:09:05--category:11172837--title:曝雷霆不夺冠杜兰特将离队 首选下家非金州勇士--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 09:09:05--category:11143271--title:又是米屈肼！致使莎娃被禁赛药物已引田径重灾--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 09:09:06--category:11172837--title:深度阅读：托马斯地妖传奇 篮球苍穹下虎啸龙吟--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 09:09:06--category:11143271--title:专为女性打造的营养秘诀：吃真实食物 补水重要--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 09:09:08--category:11172837--title:骑士新帅称保东部首位最重要 暂缓让詹姆斯轮休--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 09:09:09--category:11172837--title:首节战报：詹姆斯9分老卡特抢镜 骑士25-33灰熊--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 09:09:09--category:11127800--title:国乒包揽世乒赛凯旋抵京 李晓霞开心自拍--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 09:09:17--category:11127824--title:辽篮球迷漫画助力球队 绘画人物十分霸气传神--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 09:09:20--category:11173007--title:雄鹿队最美拉拉队员——阿里安娜--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 09:09:42--category:11173007--title:[常规赛]3月8日精彩赛况--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 09:09:43--category:11173007--title:[常规赛]灰熊VS骑士--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 09:09:44--category:11173007--title:常规赛：骑士-灰熊--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 09:18:25--category:11127824--title:英超宝贝糖果色大片妩媚性感--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 09:28:25--category:11127824--title:陈露驾车拍时尚大片 性感俏皮狂野十足--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 09:28:28--category:11127824--title:人机大战新闻发布会--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 09:28:30--category:11127824--title:翔嫂吴莎亮相女性公益跑--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 09:38:25--category:11127824--title:蕾哈娜性感狂放私房照--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 09:58:25--category:11127824--title:跑者人生：Selina 跑步让我觉得还活着--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 10:08:27--category:11027241--title:首次打入CBA总决赛 四川金强不止靠外援--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:27--category:11027241--title:中国女足1比0击败韩国 时隔八年玫瑰重返奥运--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:28--category:11027241--title:布鲁诺1妙手助女足觉醒 赛前曾与足协立“军令状”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:28--category:11027241--title:足改这一年——17部委齐心协力全面落实《总体方案》--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:29--category:11027241--title:MSN有多和谐？点球都是轮着踢 预测本季合砍146球--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:29--category:11027241--title:目无王法！冯建国夫妇对交警疯狂拳打脚踢 被刑拘--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:30--category:11027241--title:“体坛奥斯卡”的网球故事--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:30--category:11027241--title:新华社：女足重归奥运，中国足球值得珍视的光荣！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:31--category:11027241--title:辽各地球迷赴本溪为购票 77岁老球迷获辽篮探望--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:32--category:11027241--title:组图：国乒包揽世乒赛双冠凯旋--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:32--category:11027241--title:哈登眼神防守又遭嘲笑 莫雷反击：别在意他40 14--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:33--category:11027241--title:新华日报：中国女足赢了 里约，我们来了--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:33--category:11027241--title:绿军小将被罚1.5万美元 对着裁判抓下体无法无天--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:34--category:11027241--title:国乒为何长盛不衰？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:35--category:11027241--title:C罗姐姐不满迷你罗被调侃 佩佩力挺“如我冠”言论--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:35--category:11027241--title:没完！伊娃要求穆帅公开道歉 要求切尔西赔偿巨款--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:36--category:11027241--title:朱芳雨：不具备绝对的夺冠实力 自己各方面下滑--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:36--category:11027241--title:国象女子世界冠军赛 侯逸凡弈和穆兹丘克--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:37--category:11027241--title:辽媒：辽宁连两季进决赛乃壮举 下季仍是冠军热门--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:37--category:11027241--title:中国女足时隔八年拿下奥运门票--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:38--category:11027241--title:已开始备战明年扣篮大赛？ 拉文秀360度转体扣篮--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:39--category:11027241--title:勇士给科比“献上”最佳礼物 库里汤普森争相“献媚”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:39--category:11027241--title:检验冬训成果 备战里约奥运——看中国拳击队表现--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:40--category:11027241--title:布鲁诺盛赞王珊珊：她展现出了机敏的门前嗅觉--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:41--category:11027241--title:尼克斯多年合同签控卫罗腾 右膝十字韧带曾重伤--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:41--category:11027241--title:辽媒：高票价 胜广东=冠军？ 辽川是2种理念的对决--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:42--category:11027241--title:辽媒点辽篮决赛4要素：去伤病放包袱少犯规练战术--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:43--category:11027241--title:足协发海报庆祝女足出线 进军奥运玫瑰赴约！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:43--category:11027241--title:湖人创造NBA历史最大冷门 19%胜率大胜91.7%胜率--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:44--category:11027241--title:那些年， 我们引以为傲的体坛娘子军--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:44--category:11027241--title:美媒评勇士输湖人：可能是常规赛历史最大冷门--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:45--category:11027241--title:漫动作-光脚不怕穿鞋的！铜臭味熏死中超豪门--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:46--category:11027241--title:国际象棋女子世界冠军赛 侯逸凡和棋继续领先--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:46--category:11027241--title:中国体坛“阴盛阳衰”背后：对压力有超强承受力--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:47--category:11027241--title:围棋西南棋王赛开战 柯洁爆冷不敌“老师”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:47--category:11027241--title:湖人有了这位少侠，科比能安心退役了？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:48--category:11027241--title:王珊珊：进球归功于我们团队 拿到3分是最好结局--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:48--category:11027241--title:朱芳雨：宏远仍有夺冠实力 球队“阵痛期”刚开始--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:49--category:11027241--title:中国男足何时也能像这样给我们惊喜？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:50--category:11027241--title:刘英：提前出线并非偶然 希望女足奥运进前4名--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:50--category:11027241--title:曝上海男排联赛赢球奖500元 收入还不及快递员--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:51--category:11027241--title:力帆本周客场比赛变主场--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:51--category:11027241--title:权健新赛季以胜利起航 热身收官大胜忠州大黄蜂--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:52--category:11027241--title:广州冬训告一段落 中国跆拳道队备战双赛--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:52--category:11027241--title:林丹六夺德国站冠军 将征战全英赛为奥运会练兵--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:53--category:11027241--title:辽宁男篮主场门票难买 球迷们愿意远征客场助威--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:53--category:11027241--title:中国女足八年铸剑 最终挺进里约奥运--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:54--category:11027241--title:粤媒：广东若重建需卸下包袱 管理层思路也需改变--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:55--category:11027241--title:勒布朗得分超越哈弗里切克 升至联盟历史第13位--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:55--category:11027241--title:不怕累！上港开启德比模式 “于蔡组合”渐入佳境--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:56--category:11027241--title:悲剧！劳森步行者首秀仅打5分钟 1分没得受伤离场--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:57--category:11027241--title:感谢女足，用胜利打破压抑已久的沉寂--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:57--category:11027241--title:足协官方海报祝贺女足：进军奥运 玫瑰赴约(图)--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:58--category:11027241--title:李琰点评超级杯 展望世锦赛--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:59--category:11027241--title:时隔8年 中国女足重返奥运--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:08:59--category:11027241--title:高洪波寻枪不如找中场 本土前锋生存空间越来越小--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:09:00--category:11027241--title:速滑青年世界杯总决赛举行 中国小将发挥出色--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:09:00--category:11027241--title:恒大“开门黑”创1耻辱纪录 真值！4200万欧换1进球--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:09:01--category:11027241--title:张玉宁斩获处子球 维特斯主帅：他改变比赛进程--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:09:02--category:11027241--title:日本电视台如何科普国乒强大？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:09:03--category:11027241--title:莎娃发布会金句精选 不退役全赖地毯颜值不够--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:09:05--category:11027241--title:张玉宁荷甲破门成中国第一人 获得球队主帅称赞--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 10:09:10--category:11152420--title:
+            克洛普曾因庆祝动作而拒绝一名前锋--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 10:09:11--category:11152420--title:
+            佩罗蒂：C罗被嘘？我觉得不公平--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 10:09:12--category:11152420--title:
+            皮萨罗：想随秘鲁参加俄罗斯世界杯--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 10:09:13--category:11152421--title:
+                        杜锋：负辽宁输在阵容老化 除赵睿外还有引援
                    --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
-group:sports--autocheck:1--dt:2016-03-05 00:15:56--category:11152421--title:
-                        苏群：广东阵痛延续 郭艾伦展现亚锦赛冠军气质
+group:sports--autocheck:1--dt:2016-03-08 10:09:14--category:11152421--title:
+                        周鹏：从小打球就想进辽宁队 广东队替补席太弱
                    --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
-group:sports--autocheck:1--dt:2016-03-05 00:15:57--category:11152421--title:
-                        三十天后王仕鹏再登场 用表现回击退役说
+group:sports--autocheck:1--dt:2016-03-08 10:09:15--category:11152421--title:
+                        广东下赛季欲再减老将时间 朱8：还想帮助球队
                    --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
-group:sports--autocheck:1--dt:2016-03-05 00:15:57--category:11152420--title:
-            沃尔科特：若输热刺后果无法想象--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:15:58--category:11152420--title:
-            一生之敌，超人莱万从小面对蝙蝠侠--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:15:59--category:11152420--title:
-            前蓝狐主帅：争冠是十年间最好故事--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:16:00--category:11152420--title:
-            希丁克：威廉该进英超年度最佳阵容--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:16:00--category:11027241--title:组图：2016中超联赛揭幕 华夏客场2-1逆转胜富力--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:01--category:11027241--title:点球不吹！拉维奇连说NO 球王接班人还需中超磨练--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:01--category:11152420--title:
-            利物浦中场卢卡斯将缺阵五到六周--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:16:02--category:11027241--title:中超-居吕姆将功补过热鸟建功 揭幕战华夏2-1逆转富力--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:02--category:11027241--title:新版乐视体育APP变身中超直播神器--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:02--category:11152420--title:
-            佩帅：亚亚-图雷将复出战维拉--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:16:03--category:11027241--title:世乒赛半决赛：中国男乒战韩国 女乒再遇台北--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:04--category:11152420--title:
-            皇马大名单：贝尔马塞洛复出--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:16:05--category:11152420--title:
-            伊希纳乔：希望能再次出战维拉--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
-group:sports--autocheck:1--dt:2016-03-05 00:16:05--category:11027241--title:第十届费度亚洲杯总决赛深圳落幕 印度选手夺总冠--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:06--category:11027241--title:被征服！女足主帅赛后亲吻赵丽娜 更衣室忘情跳舞--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:06--category:11027241--title:“上海超级杯”大奖赛首日：中国包揽男女1500米冠军--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:07--category:11027241--title:奇！80亿中超首球是乌龙 华夏铁闸演另类梅开二度--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:07--category:11027241--title:富力主帅：输球因运气太差 热鸟就是曼联也防不住--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:07--category:11027241--title:布鲁诺：女足是铿锵玫瑰代表 表现超预期不能松懈--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:08--category:11027241--title:铁闸！姆比亚扛起10人华夏 唯曼城一人可与之媲美--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:08--category:11027241--title:女足奥预赛综述-朝鲜1-0绝杀越南 澳洲2-0胜韩国--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:09--category:11027241--title:姜至鹏：两个丢球很愚蠢 华夏外援身价能力都太强--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
-group:sports--autocheck:1--dt:2016-03-05 00:16:09--category:11127691--title:古雅莎：赢日本感觉太爽了 进球后教练让我跳舞--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
-group:sports--autocheck:1--dt:2016-03-05 00:16:10--category:11127691--title:美女门将：布鲁诺赛后亲我一下 中国未稳拿第2名--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
-group:sports--autocheck:1--dt:2016-03-05 00:16:11--category:11143271--title:健康饮食法则：进餐时间有诀窍 补水营养很重要--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
-group:sports--autocheck:1--dt:2016-03-05 00:16:12--category:11143271--title:俄罗斯两名反兴奋剂官员死亡 曾欲出书披露禁药--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
-group:sports--autocheck:0--dt:2016-03-05 00:16:13--category:11127800--title:创意or尴尬？紧身比赛服令人哭笑不得--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:1--dt:2016-03-08 10:09:15--category:11152421--title:
+                        朱芳雨：不能光从得分看我贡献 不引援阵容堪忧
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 10:09:16--category:11152421--title:
+                        辽宁男篮总决赛一票难求 球员组织去客场助威 
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 10:09:17--category:11152421--title:
+                        脑梗球迷感动辽篮队员 俱乐部派专人前去探望
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 10:09:17--category:11152422--title:
+玉山中式台球世锦赛吸引来特鲁姆普和罗伯逊
+--ifbigpic:0--fromstr:huochetou--s:ee79d708606bc709c8b7861197ae8501
+group:sports--autocheck:1--dt:2016-03-08 10:09:18--category:11143271--title:学校将体育纳入模拟考 初三学生夜里跳绳跑步忙--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 10:09:20--category:11143271--title:北京一高校制定跑步打卡校规 一学期45次算合格--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 10:09:21--category:11172837--title:半场战报：唐斯15 7书豪仅2分 森林狼49-47黄蜂--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 10:09:21--category:11143271--title:中国女子马拉松赛于4月9日开跑 香港将组队参赛--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 10:09:21--category:11172837--title:半场战报：詹姆斯15分苦撑大局 骑士49-58灰熊--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 10:09:22--category:11143271--title:郑开马拉松办“舞林大会” 27所高校啦啦队参加--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 10:09:22--category:11172837--title:三节战报：沃克单节21分 黄蜂82-75反超森林狼--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 10:09:23--category:11127800--title:常规赛：骑士-灰熊--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 10:09:35--category:11127824--title:谭晶雪地美照端庄素雅--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 10:09:37--category:11127800--title:常规赛：马刺-步行者--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 10:09:49--category:11127824--title:美成这样的中国女足你还认识吗？--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 10:09:58--category:11127800--title:常规赛：森林狼-黄蜂--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 10:10:12--category:11127824--title:美国独臂男子刻苦健身成“肌肉男”--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 10:10:13--category:11127800--title:甜瓜娇妻现身百老汇 真空上阵上围傲人--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 10:10:24--category:11173007--title:常规赛：马刺-步行者--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 10:10:29--category:11173007--title:常规赛：森林狼-黄蜂--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 10:10:36--category:11173007--title:甜瓜娇妻现身百老汇 真空上阵上围傲人--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 10:10:42--category:11173007--title:常规赛：雄鹿-公牛--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 10:10:49--category:11173007--title:蕾哈娜性感狂放私房照--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 10:18:25--category:11127824--title:MLB民间高手徒手接球棒救小孩--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 10:18:26--category:11127824--title:西南棋王赛半决赛--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 10:28:25--category:11127824--title:皇马备战欧冠基情四射--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 10:28:30--category:11127824--title:花花公子姐妹拍瑜伽写真 香艳造型搔首弄姿--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 10:58:25--category:11127824--title:罗马备战欧冠1/8决赛次回合--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 11:08:25--category:11027241--title:辽篮77岁患病球迷：心态球员赛场摔倒 辽宁定夺冠--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:26--category:11027241--title:77岁球迷病床上看直播感动球员 辽篮送千元慰问金--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:26--category:11027241--title:高价票 广东定律=总冠军？ 辽宁男篮将最后搏杀--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:27--category:11027241--title:湖人终结勇士连胜纪录 制造NBA常规赛史上大冷门--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:27--category:11027241--title:“二年级”压力更大“换血”离不开引援——专访广东男篮主帅杜锋--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:28--category:11027241--title:库特哈德抨排位新规花哨 跪舔迎合不利于比赛--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:29--category:11027241--title:中国拳击队检验冬训成果 备战里约奥运--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:29--category:11027241--title:步行者正式签下泰-劳森 合同细节并未透露--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:30--category:11027241--title:安东尼：助纽约招募球星 隆多很适合我们的体系--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:30--category:11027241--title:女足奥预赛出线足协官员落泪：盼能激励男足突围--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:31--category:11027241--title:开拓者新秀想拿NBA当兼职 让球队允许自己练棒球--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:32--category:11027241--title:死神又来了！前美国总统夫人去世 就问你句怕不怕--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:33--category:11027241--title:迈卡威将接受手术赛季报销 雄鹿冲击季后赛受创--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:34--category:11027241--title:赛前发布会女儿助阵李世石 略感紧张自信能5-0--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:35--category:11027241--title:尼克斯或聘布拉特当主帅 总经理曾是其大学队友--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:36--category:11027241--title:艾利斯26分步行者止马刺8连胜 乔治23 5劳森伤退--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:36--category:11027241--title:曝CBA篮板王将加盟NBA太阳队 战北京队曾轰41 20--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:37--category:11027241--title:粤媒：换血非“老将下新人上” 起起落落是球队宿命--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:38--category:11027241--title:中超本土球员生存之道：“二点大腕”意义重大--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:38--category:11027241--title:大将军模拟火箭首轮打勇士：哈登贝疯狗摧毁库里--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:39--category:11027241--title:辽篮要开启新时代 国内球员框架联盟无出其右者--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:40--category:11027241--title:约翰逊：博尔特史上最伟大 加特林有望击败他--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:41--category:11027241--title:西南棋王赛结束前两轮 五大世界冠军遭“一日游”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:41--category:11027241--title:苏媒：CBA三外援“扶贫”变“致富” 篮协应全面评估--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:42--category:11027241--title:西南棋王赛爆冷 柯洁首轮遭淘汰常昊“一日游”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:43--category:11027241--title:勇士用最大冷门致敬科比 无厘头原因解释“神奇”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:43--category:11027241--title:三原因致中超豪门首轮“梦游” 联赛或迎改朝换代？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:45--category:11027241--title:骑士爆冷负残阵灰熊 詹皇28 9厄文27分失扳平3分--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:45--category:11027241--title:辽媒给球队提建议：消除伤病隐患 演练绝杀战术--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:46--category:11027241--title:世纪人机大战一触即发 人脑和人工智能PK万众瞩目--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:46--category:11027241--title:杜锋：纯靠青训难保争冠 相信易建联下赛季不转会--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:47--category:11027241--title:沪媒：上海德比是中超拳头产品 裁判别和球员抢镜--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:47--category:11027241--title:佩兰老乡率女足进军里约 姑娘们认为其功不可没--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:48--category:11027241--title:揭秘“泰国最硬男人”星当 拳星时代霸道来袭--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:50--category:11027241--title:KB附身？阿伦26分5年未见 生涯1001断锁LBJ关键球--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:50--category:11027241--title:杜锋：比赛全交给年轻人难进前八 有球员不够努力--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:51--category:11027241--title:李秋平：布拉彻不到绝境不传球 这能有什么配合？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 11:08:53--category:11127704--title:黄蜂擒森林狼赢得4连胜 沃克34 7 6林书豪8中1--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 11:08:54--category:11127704--title:里程悲！詹皇28 9 5超名宿 中关键三分仍难挽败局--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 11:08:55--category:11152421--title:
+                        川媒：质疑三外是吐酸水 四川成功因吃透规则
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 11:08:56--category:11152421--title:
+                        孟达：喜获千金责任感更重 总决赛全力拼辽篮
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 11:08:57--category:11152421--title:
+                        姚明两会提案：体育馆利用率低 应引入社会资本
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 11:08:58--category:11152421--title:
+                        杨学增：备战以体能投篮为主 要打出自身特点
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 11:08:59--category:11152421--title:
+                        姚明两会提案质量获赞 记者：曾碰到他实地调研
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 11:09:01--category:11152420--title:
+            纽卡斯尔48小时内解雇麦克拉伦--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 11:09:02--category:11152420--title:
+            登贝莱：为巴萨踢球是我的梦想--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 11:09:03--category:11152420--title:
+            安切洛蒂：皇马的伤病问题不正常--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 11:09:04--category:11152420--title:
+            曝登贝莱是巴萨今夏转会头号目标--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 11:09:05--category:11127691--title:鲁能主场战辽足目标三分 破密集防守需警惕反击--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 11:09:05--category:11127691--title:俱乐部排名：恒大狂跌仍居亚洲第1 国安中超第2--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:0--dt:2016-03-08 11:09:06--category:11127824--title:体坛女神祝福三八节--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 11:09:14--category:11127800--title:传奇落幕 NFL四分卫曼宁正式宣布退役--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 11:09:23--category:11127800--title:常规赛：雄鹿-公牛--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 11:09:29--category:11127800--title:唯美！美女秀身姿 红枫湖旁练瑜伽--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 11:09:38--category:11127800--title:常规赛：国王-鹈鹕--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:0--dt:2016-03-08 11:09:46--category:11127800--title:常规赛：快船-小牛--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:1--dt:2016-03-08 11:09:52--category:11172837--title:三节战报：詹皇总分超绿军名宿 骑士74-82灰熊--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 11:09:53--category:11172837--title:乔治23 5定乾坤帕克伤退 马刺负步行者止8连胜--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 11:09:53--category:11172837--title:沃克砍34 7 6书豪9分5板 黄蜂擒森林狼迎四连胜--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 11:09:54--category:11172837--title:7连铁！林书豪险破纪录 关键罚球 里程碑可遮羞--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 11:09:54--category:11172837--title:詹皇28分里程碑送致命失误 欧文27分骑士负灰熊--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 11:09:54--category:11143271--title:New Balance Fresh Foam大数据缓震跑鞋两联发--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:1--dt:2016-03-08 11:09:56--category:11172837--title:致命失误！詹皇葬送比赛 里程悲夜惨遭4次大帽--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 11:09:56--category:11172837--title:末节14分！欧文险救骑士 乐福9中2连续6场低迷--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 11:09:57--category:11172837--title:网友调查：您认为本场书豪表现不佳原因是什么--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 11:28:25--category:11127824--title:三八节细数体坛“小娘炮”--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 11:28:31--category:11127824--title:长城马拉松俏春首发 曲吉让布领跑--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 11:28:35--category:11127824--title:四川男篮总决赛主场开票 引爆成都球市--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 12:08:25--category:11152421--title:
+                        新华社：CBA快速成长也有挑战 职业化仍有必要
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 12:08:26--category:11127706--title:宋涛七建议支招广东：技术层面改革 考虑台北球星--ifbigpic:0--fromstr:huochetou--s:a1933ddc06682dce7ce888d4df061642
+group:sports--autocheck:1--dt:2016-03-08 12:08:26--category:11127706--title:朱芳雨：成绩反应现实状况 引进更好球员很有必要--ifbigpic:0--fromstr:huochetou--s:a1933ddc06682dce7ce888d4df061642
+group:sports--autocheck:1--dt:2016-03-08 12:08:27--category:11127704--title:惊天大冷门--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:27--category:11127704--title:马刺半场32分赛季新低 遭调侃：没波帅时堪比76人--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:27--category:11127704--title:厄文27 5 4丢续命3分仍该赞 末节14分没他早输了--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:28--category:11127704--title:活塞否决交易影响莫泰身价 球员工会将为其出头--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:29--category:11127704--title:小牛放视频讽乔丹 球迷举中文标语“小乔丹智障”--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:29--category:11127704--title:科尔：重看录像球员都沉默 库里：输湖人像被打脸--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:30--category:11127704--title:公牛撞翻雄鹿收获2连胜 罗斯22 7加索尔12 17 13--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:30--category:11127704--title:失利无碍勇士追纪录 同期战绩仍好于72胜公牛队--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:30--category:11127704--title:鹈鹕逆转国王结束4连败 浓眉31 10考神空砍40 16--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:31--category:11127704--title:沃克34 7 6林书豪大心脏 黄蜂拒逆转击退森林狼--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:31--category:11127704--title:卢：受伤的灰熊最危险 詹皇的投篮选择我从不质疑--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:32--category:11127704--title:杜锋：“二年级”压力更大 “换血”离不开引援--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:32--category:11127704--title:詹皇里程碑之夜送致命失误 灰熊残阵出击爆冷--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:33--category:11127704--title:加索尔12 17 13 5盖帽 全能数据成32年来第一人--ifbigpic:0--fromstr:huochetou--s:62819b0c686634cfcea1191d73015380
+group:sports--autocheck:1--dt:2016-03-08 12:08:33--category:11127717--title:囧叔确认今夏不去皇马 夸德拉多获尤文二月最佳--ifbigpic:0--fromstr:huochetou--s:67437b6652273f41c16b1a1063db7a2f
+group:sports--autocheck:1--dt:2016-03-08 12:08:34--category:11152420--title:
+            牛！6岁球迷背熟所有英超号码--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 12:08:35--category:11152420--title:
+            连续一周双赛结束，巴萨放假两天--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 12:08:36--category:11152420--title:
+            克罗地亚国家队征召皇马巴萨3将--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 12:08:37--category:11152420--title:
+            酿奇招！贝尔防受伤给球袜打洞--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 12:08:38--category:11027241--title:NORTHLAND携手王珞丹 乐享自然“顺心而行”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:39--category:11027241--title:新疆主帅与核心公开闹翻 李秋平布拉切二选一？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:40--category:11027241--title:中国女足时隔八年再获奥运会入场券--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:41--category:11027241--title:两球迷争论梅西C罗谁更强爆发冲突 一人不幸身亡--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:41--category:11027241--title:80亿元中超从香饽饽变烫手山芋--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:42--category:11027241--title:鲁能首轮“被钱打脸”！11日主场首秀战辽足要拿3分--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:43--category:11027241--title:莎娃或将被禁赛一年 耐克宣布暂停与莎娃合作--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:45--category:11027241--title:巴萨刷纪录：各项赛事36场不败 MSN组合进球破百--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:45--category:11027241--title:大奖赛看点：丁俊晖冲前16 奥沙利文再夺一冠？--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:47--category:11027241--title:大威撰文阐述为何重返印第赛：当姐姐责任重大--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:48--category:11027241--title:俱乐部排名：恒大降14位仍亚洲第1 国安中超第2--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:49--category:11027241--title:《神战：权力之眼》携手中超开启主题观影活动--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:50--category:11027241--title:有望迎来史上超强阵容 2016环塔参赛车车队一窥--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:52--category:11027241--title:女足撑起中国足球这片天 优异表现让韩国心服口服--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:53--category:11027241--title:时隔八年重返奥运舞台  中国足球还靠女足长脸--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:53--category:11027241--title:卓尔冲超老将枕戈待旦 宋志伟：位置改变决心没变--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:54--category:11027241--title:印第赛十大看点：大威重返 哈勒普有秘密武器--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 12:08:56--category:11172837--title:勇士破72胜概率跌至34% 不惧强敌却常阴沟翻船--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 12:08:57--category:11172837--title:网友调查：您认为骑士负灰熊的根本原因是什么？--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 12:08:57--category:11172837--title:罗斯22 7加索尔砍三双 巴特勒缺阵公牛力擒雄鹿--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 12:08:58--category:11172837--title:骑士引进新疆外援无望 750万长约阻布拉切返NBA--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 12:08:59--category:11172837--title:哈登一项成队史第一人 本赛季大号两双笑傲联盟--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 12:09:00--category:11172837--title:考辛斯40 16浓眉哥31分 鹈鹕17分大逆转擒国王--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 12:09:00--category:11172837--title:小乔丹23 20保罗27分 三人得分20 快船大胜小牛--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 12:09:01--category:11127824--title:直击英国赛马魅力瞬间--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 12:09:04--category:11127824--title:猴子领奖灯饰落户重庆 预热猴年重马赛--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 12:09:07--category:11173007--title:常规赛：国王112-115鹈鹕--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 12:09:26--category:11173007--title:常规赛：快船109-90小牛--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 12:28:25--category:11127824--title:[常规赛]魔术VS勇士--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 12:28:26--category:11127824--title:凯特王妃一家滑雪 小公主红脸蛋萌翻--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 13:08:25--category:11027241--title:有信心！博格特传给库里 不等萌神出手就开始庆祝--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:26--category:11027241--title:诺天王再砍全队最高22分 16次单季1000分历史第4--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:27--category:11027241--title:登场3分钟献“绝杀” 张玉宁攻入荷甲首球--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:27--category:11027241--title:NBA常规赛 诞生历史最大冷门--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:28--category:11027241--title:排联确认奥运落选赛球队 阿尔及利亚顶替埃及--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:28--category:11027241--title:中国女足踢进里约奥运会--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:29--category:11027241--title:网易体育招聘国内足球编辑 实习生--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:29--category:11027241--title:埃雷尔森： 我还会回来！--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:30--category:11027241--title:前瞻-中国女足时隔8年重返奥运 抗澳争亚洲老大--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:30--category:11027241--title:欧冠1/8决赛迎来次回合决战 银河战舰欲驯服“红狼”晋级--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:31--category:11027241--title:传统行业冒险投身电竞 实况直播产业火爆全球--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:34--category:11027241--title:不停脚！张玉宁荷甲预备队点球破门 首发打满全场--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:35--category:11027241--title:莎娃孙杨涉药雷同反响异！耐克暂停合约361沉默--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:35--category:11027241--title:津媒：总决赛辽川五大比拼 经验与时运成辽宁优势--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:36--category:11027241--title:快船半场发力击溃小牛 保罗27 4 7小乔丹砍23 20--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:36--category:11027241--title:女足“心灵按摩师”布鲁诺：细节至上的“法式玫瑰”--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 13:08:38--category:11152420--title:
+            创意无穷，巴黎众球星成电影主角--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 13:08:42--category:11152420--title:
+            斯特林：希望能像阿圭罗一样进球--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 13:08:43--category:11152421--title:
+                        动容！老人重症醒来仍关心辽篮：孩子们别卡着
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 13:08:44--category:11152421--title:
+                        粤媒：决赛前歇一周篮协真会玩 球员状态难延续
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 13:08:45--category:11152421--title:
+                        粤媒：主帅痛诉外援新疆陷两难 已无共存可能
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 13:08:45--category:11143271--title:2016成都双遗马拉松竞赛规程：冠军奖励15000--ifbigpic:0--fromstr:huochetou--s:e410dba4d3d93245276e59129d9dd252
+group:sports--autocheck:0--dt:2016-03-08 13:08:46--category:11127800--title:川蜜冒雨排队为观决赛 女球迷举百元钞求票--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:1--dt:2016-03-08 13:09:05--category:11172837--title:马刺战步行者帕克劳森双双伤退 小帕克暖心(图)--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 13:09:05--category:11172837--title:半场战报：库里16 6全队中9三分 勇士59-46魔术--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:1--dt:2016-03-08 13:09:06--category:11172837--title:詹皇称轻视灰熊导致输球 批骑士队粗心失误太多--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 13:09:06--category:11127824--title:女神节特辑狂野女牛仔--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 13:09:10--category:11173007--title:常规赛：勇士-魔术--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 13:09:27--category:11173007--title:[常规赛]魔术VS勇士--ifbigpic:1--fromstr:huochetou--s:4e7e9715538d58cc03eb4ca3dd467dd3
+group:sports--autocheck:0--dt:2016-03-08 13:38:25--category:11127824--title:高尔夫一周社交图--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:0--dt:2016-03-08 13:58:25--category:11127824--title:动谱西南棋王赛半决赛--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d
+group:sports--autocheck:1--dt:2016-03-08 14:08:25--category:11152420--title:
+            曼城为伦敦球迷提供看球接送服务--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 14:08:26--category:11152420--title:
+            西媒：内马尔疑故技重施回国陪妹妹--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 14:08:27--category:11152420--title:
+            妖星引爆法兰西，谁是乌斯马内-登贝莱？--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 14:08:28--category:11152420--title:
+            小苏亚雷斯经纪人否认收到那不勒斯报价--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 14:08:29--category:11152420--title:
+            马塞洛：沟通不佳无缘国家队很无奈--ifbigpic:0--fromstr:huochetou--s:fdd37dba35d0269f1bb013f5e5a2166a
+group:sports--autocheck:1--dt:2016-03-08 14:08:29--category:11027241--title:被骂智障？小乔丹完美复仇 爆砍双20打服小牛主帅--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:30--category:11027241--title:莎娃面临禁赛处罚 知名运动品牌暂停与其合作--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:31--category:11027241--title:性感体育女主播被偷拍案裁定 获赔5500万美元--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:31--category:11027241--title:日本男篮公布备战奥运落选赛名单 田卧勇太领衔--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:32--category:11027241--title:粤媒：决赛前歇一周篮协真会玩 球员状态难延续--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:33--category:11027241--title:网坛美女莎拉波娃药检不过关面临禁赛--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:33--category:11027241--title:库里单赛季三分总数突破300大关 成NBA历史首人--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:34--category:11027241--title:NBA实力榜：勇士榜首雷霆降至第六 骑士排第三--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:35--category:11027241--title:曼萨诺：太明白上海德比含义 谁赢谁才是魔都老大--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:35--category:11027241--title:王珊珊一头顶开奥运大门：进球不重要3分最重要--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:36--category:11027241--title:中式台球世锦赛：小特再临“福地” 罗伯逊“叫板”丁俊晖--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:36--category:11027241--title:铿锵玫瑰！中国女足重返奥运 年轻的中国女足压哨进球逼平朝鲜战胜日本--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:37--category:11027241--title:日媒：马龙是最强的男人 日本队足以引发奇迹--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:38--category:11027241--title:津媒：广东难敌辽宁青春风暴 历史轮回令王朝落幕--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:38--category:11027241--title:F1中国站实施排位赛新规 90秒大逃杀存反对声--ifbigpic:0--fromstr:huochetou--s:4e2755a36a86a629956e2f521daa99c6
+group:sports--autocheck:1--dt:2016-03-08 14:08:40--category:11152421--title:
+                        上季最强大外缘何成毒瘤？ 粤媒：或因钱已到手
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 14:08:41--category:11152421--title:
+                        朱芳雨：“锋雨联”难复制 引援和培养同样重要
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 14:08:42--category:11152421--title:
+                        前国手建议广东做针对性引援：可考虑台湾锋线
+                   --ifbigpic:0--fromstr:huochetou--s:2d9ff518399c54799bf592cd019312c3
+group:sports--autocheck:1--dt:2016-03-08 14:08:43--category:11127691--title:好友曝鲁尼收上港天价合约 三年薪水超一亿磅？--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:1--dt:2016-03-08 14:08:44--category:11127691--title:布鲁诺送女足队员三八节祝福：女王们，节日快乐--ifbigpic:0--fromstr:huochetou--s:926528ba3384ba096c9218c9e21cc0b1
+group:sports--autocheck:0--dt:2016-03-08 14:08:45--category:11127800--title:常规赛：勇士-魔术--ifbigpic:1--fromstr:huochetou--s:2267f4d4ca1e73b4353ce63153276672
+group:sports--autocheck:1--dt:2016-03-08 14:09:06--category:11172837--title:骑士爆冷不敌全替补灰熊 詹皇个人得分再超名宿--ifbigpic:0--fromstr:huochetou--s:ba4ea35f6002499dd71a023de9c286be
+group:sports--autocheck:0--dt:2016-03-08 14:38:25--category:11127824--title:海报-库里单赛季命中300三分纪念--ifbigpic:1--fromstr:huochetou--s:474c0b2b6feaff5bf55f2f876fc6226d

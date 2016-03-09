@@ -13,13 +13,15 @@ db_user = cf.get("db","db_user")
 db_pass = cf.get("db","db_pass")
 db_database = cf.get("db","db_database")
 
-try:
-    conn = mysql.connect(host=db_host,user=db_user,passwd=db_pass,db=db_database,port=int(db_port))
-    cur=conn.cursor()
-except mysql.Error,e:
-    print "Mysql Error %d: %s" % (e.args[0], e.args[1])
-
 app = Flask(__name__)
+
+
+def mysql_conn():
+    try:
+        conn = mysql.connect(host=db_host,user=db_user,passwd=db_pass,db=db_database,port=int(db_port))
+        return conn.cursor()
+    except mysql.Error,e:
+        print "Mysql Error %d: %s" % (e.args[0], e.args[1])
 
 #查看每个频道图表展现的路由
 @app.route('/<group_name>')
@@ -30,6 +32,7 @@ def index(group_name):
 #获取所有推送频道的路由
 @app.route('/groups')
 def groups():
+    cur = mysql_conn()
     sql = 'select group_name from groups'
     cur.execute(sql)
     arr = []
@@ -41,7 +44,7 @@ def groups():
 #获取每个频道推送数据的路由
 @app.route('/data/<group_name>/<tag>')
 def data(group_name,tag):
-    global cur
+    cur = mysql_conn()
     tag_list = ['cmspull','spiderpush','spidergrab']
     arr = []
     if tag in tag_list:
@@ -55,7 +58,6 @@ def data(group_name,tag):
             push_sql = 'select time_hour,sum(push_count) as push_count from spider_push_logs where group_name="%s" group by time_hour' % (group_name)
             cur.execute(push_sql)
             for j in cur.fetchall():
-                print j[1]
                 arr.append([j[0]*1000,int(j[1])])
 
         if tag == 'spidergrab':

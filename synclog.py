@@ -69,7 +69,7 @@ def insert_cms_pull_logs(group_name,timeStamp,no_check_count,auto_check_count):
     cur.execute(sql)
     result=cur.fetchone()
     if result:
-        up_sql = 'update cms_pull_logs set auto_check_count=%s and no_check_count=%s where group_name=\'%s\' and time_hour=%s' % (auto_check_count,no_check_count,group_name,timeStamp)
+        up_sql = 'update cms_pull_logs set auto_check_count=%s, no_check_count=%s where group_name=\'%s\' and time_hour=%s' % (auto_check_count,no_check_count,group_name,timeStamp)
         cur.execute(up_sql)
     else:
         in_sql = 'insert into cms_pull_logs (group_name,time_hour,auto_check_count,no_check_count) VALUES (\'%s\',%s,%s,%s)' % (group_name,timeStamp,auto_check_count,no_check_count)
@@ -91,5 +91,4 @@ logdir = './logs/'
 
 #日志统计入口
 seachFiles(logdir,'huochetou')
-
 

@@ -55,24 +55,24 @@ def md5(str):
 #CMS分类和频道对应关系接口
 def getGroupInfoByCateId(cid):
     if cid:
-        if cid !='0':
+        if cid !=0:
             import requests,json
             key = cms_interface_key
             ymd = time.strftime('%Y-%m-%d',time.localtime(time.time()))
             s = md5(key+ymd)
             #获得CMS分类和频道信息
-            group_categoryid_info_url = cms_interface_url+'?id='+cid+'&s='+s
+            group_categoryid_info_url = cms_interface_url+'?id='+str(cid)+'&s='+s
             r = requests.get(group_categoryid_info_url)
             return r.text
 
 #分析推送数量
 def sync_push_log():
     global timeStamp
-    sql = "select count(nsl.id) as count,nt.chinaType from new_send_log nsl,newstype nt where nsl.type=nt.name and nsl.createtime like('%s%%') group by nsl.type" % now_time
+    sql = "select count(id) as count,cmstypeid from new_send_log where state !=3 and cmstypeid is not null and createtime like('%s%%') group by cmstypeid" % now_time
     spider_cur.execute(sql)
     for i in spider_cur.fetchall():
         if i[1]:
-            if i[1]!='0':
+            if i[1]!=0:
                 group_name = getGroupInfoByCateId(i[1])
                 if group_name:
                     insert_spider_push_logs(group_name,timeStamp,i[0],i[1])
@@ -80,7 +80,11 @@ def sync_push_log():
 #分析火车头抓取数量
 def sync_grab_log():
     global timeStamp
-    sql = "select count(*) as count,nt.chinaType from newinfo ni,newstype nt where ni.type=nt.name and ni.inTime  like('%s%%') group by ni.type" % now_time
+    up_sql_clear = 'delete from spider_grab_logs where time_hour=%s' % timeStamp
+    cur.execute(up_sql_clear)
+    conn.commit
+
+    sql = "select count(*) as count,nt.chinaType from newinfo ni,newstype nt where ni.type=nt.name and ni.inTime  like('%s%%') group by chinaType" % now_time
     spider_cur.execute(sql)
     for i in spider_cur.fetchall():
         if i[1]:
@@ -107,7 +111,7 @@ def insert_spider_grab_logs(group_name,timeStamp,grab_count):
     cur.execute(sql)
     result=cur.fetchone()
     if result:
-        up_sql = 'update spider_grab_logs set grab_count=%s where group_name=\'%s\' and time_hour=%s' % (grab_count,group_name,timeStamp)
+        up_sql = 'update spider_grab_logs set grab_count=grab_count+%s where group_name=\'%s\' and time_hour=%s' % (grab_count,group_name,timeStamp)
         cur.execute(up_sql)
     else:
         in_sql = 'insert into spider_grab_logs (group_name,time_hour,grab_count) VALUES (\'%s\',%s,%s)' % (group_name,timeStamp,grab_count)

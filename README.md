@@ -1,6 +1,6 @@
-# a chart by python
+# A chart by python
 
-use:python、mysql、日志文件、hightchart
+工具:python、mysql、日志文件、hightchart
 
 说明：工作中常常需要通过分析日志，生成图表，直观的应一个系统或应用的状态。python 处理日志非常方便快捷，主要流程如下：
 

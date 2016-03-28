@@ -1,0 +1,21 @@
+[db]
+db_host = localhost
+db_port = 3306
+db_user = user
+db_pass = pass
+db_database = spider_chart
+
+[spider_db]
+spider_db_host = localhost
+spider_db_port = 3306
+spider_db_user = user
+spider_db_pass = pass
+spider_db_database = newspider
+
+[cms_interface]
+cms_interface_key = 密钥串
+cms_interface_url = 接口URL
+
+
+
+

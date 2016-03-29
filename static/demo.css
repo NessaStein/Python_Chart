@@ -1,0 +1,37 @@
+﻿/* Demo */ 
+#demo { width:100%; min-width:1300px;}
+#demo hr{margin:6px 0px;}
+#demo #demo_menu {	width:250px; float:left; padding:20px 0px; height:auto; box-shadow: 4px 2px 5px rgba(0, 0, 0, 0.2); background:#F8F8F8; }
+#demo #demo_menu h3{ display:block; width:220px; padding-left:20px; margin-left:0px; }
+#demo #demo_menu h3 span { float:right; color:#ff9009; font-size:12px; cursor:pointer; margin-right:10px; }
+#demo #demo_menu ul { list-style:none; width:250px; margin-left:0px;}
+#demo #demo_menu ul li{ width:220px;color:#000; }
+#demo #demo_menu ul li a {width:210px;color:#000; padding:2px 0px 2px 36px;text-decoration:none;display:block;}
+#demo #demo_menu ul li:hover { background:#FFBA00; font-weight:bold;width:252px;}
+#demo #demo_menu ul li.cur { font-weight:bold; color:#fff; background:#006ECC;text-align:right;box-shadow:0px 3px 5px #aaa; width:252px;}
+#demo #demo_menu ul li.cur a{color:#fff;padding:2px 15px 2px 0px;width:237px;}
+#demo #demo_content {margin-left: 20px;margin-right: 20px;overflow:hidden}
+#demo #demo_content .page-header {padding-bottom:5px;height:45px;}
+#demo #demo_content .page-header h1 {float:left;font-size:36px}
+#demo #demo_content .page-header .subtitle{float:left;color:#888;height:36px;margin-left:36px;}
+#demo #demo_content .page-header .subtitle p {height:18px;margin-bottom:0px;}
+#demo #demo_content .page-header .subtitle p.single{position:relative;top:16px;}
+#demo #demo_content .page-header .subtitle p.tip {color:red}
+#demo #demo_content .page-header .subtitle p.tip a {color:red}
+#demo #demo_content .page-header .subtitle a{color:#888;text-decoration:underline}
+#demo #demo_content .page-header .subtitle a.username{font-weight:bold;}
+#demo #demo_content .page-header .subtitle a:hover {color:#000;text-decoration:underline;}
+#demo #demo_content button { margin-right:10px }
+#demo #demo_content p { height:30px; margin-bottom:20px }
+#demo #demo_content p span a { color:#fff; text-decoration:none; }
+#demo #demo_content p.edit { margin-top:20px; margin-bottom:10px; text-align:center; }
+#demo #demo_content #show_code { margin-top:-10px; }
+#demo #demo_content #show_code h4 a { margin-left:30px; font-size:12px; font-weight:normal; text-decoration:none;	}
+#demo #demo_content #show_code h4 span.close { color:#ff0000; float:right;margin-right:20px; cursor: pointer; font-size:12px; font-weight:normal;opacity:1; }
+#demo #demo_content #show_code .code_space { margin-top:10px; margin-bottom:15px; padding:10px; border:1px solid #2F7ED8; border-radius:5px; font-family:'Courier New'; background:#A7CEFA; color:#000; white-space:pre; overflow-x:auto; }
+#demo #demo_content #demo_url {margin-top:40px;height:30px;}
+#demo #demo_content #demo_url  .title {float:left;position:relative;top:5px;color:#006ECC;font-weight:bold;}
+#demo #demo_content #demo_url input {display:inline;width:890px;overflow:auto;float:left;margin-bottom:20px;}
+#demo #demo_content #demo_url button  {float:left;margin-right:0px;}
+
+#demo #group_html {margin:20px auto;  width:1000px;overflow:hidden}

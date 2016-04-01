@@ -1,8 +1,10 @@
 # -*- coding:utf-8 -*-
-from flask import Flask,render_template
+
 import ConfigParser
-import MySQLdb as mysql
 import json
+
+import MySQLdb as mysql
+from flask import Flask, render_template
 
 #载入数据库配置信息
 cf = ConfigParser.ConfigParser()

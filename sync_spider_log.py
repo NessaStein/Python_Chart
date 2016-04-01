@@ -1,9 +1,10 @@
 # -*- coding:utf-8 -*-
+import ConfigParser
 import os
 import re
 import time
+
 import MySQLdb as mysql
-import ConfigParser
 
 #载入数据库配置信息
 cf = ConfigParser.ConfigParser()

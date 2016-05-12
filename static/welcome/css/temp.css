@@ -1,0 +1,82 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin:0 auto; padding:0;
+	background-color:#daf7ff;
+	line-height:14px;
+}
+a{ color:#4dabc7; text-decoration:none;}
+a:hover{ text-decoration:underline;}
+#center{ background:url(../img/bg.jpg) no-repeat; width:960px; height:520px; margin:0 auto;}
+#center .ico{ padding-top:312px; text-align:center; width:960px;}
+#center .ico label{ text-align:center; width:120px; display:inline-block; font-size:18px;}
+#center .ico label img{ display:block; margin:auto; padding-bottom:1em;}
+#center .quckLink{ color:#ff9900; width:960px;text-align:center; height:16px; padding-top:100px;}
+#center .quckLink label{ margin:0 10px;color:#4dabc7; }
+#footer{ background:url(../img/footer_bg.jpg) repeat-x; height:80px; color:#b8dde9; padding-top:27px; text-align:center; background-color:#4dabc7;}
+#footer a{ color:#b8dde9;}
+#footer p{ margin:0; padding:5px 0px; line-height:18px;}
+#footer span{ padding:0 8px;}
+img{ border:0;}
+
+.tip-yellow {
+	z-index:1000;
+	text-align:left;
+	border:1px solid #939393;
+	padding:7px;
+	min-width:50px;
+	max-width:530px;
+	color:#509db4;
+	background-color:#fef9d9;
+	background-image:url(../img/tip-yellow.png); /* bgImageFrameSize >= 10 should work fine */
+	/**
+	 * - If you set a background-image, border/padding/background-color will be ingnored.
+	 *   You can set any padding to .tip-inner instead if you need.
+	 * - If you want a tiled background-image and border/padding for the tip,
+	 *   set the background-image to .tip-inner instead.
+	 */
+}
+.tip-yellow .tip-inner {
+	font:bold 13px/18px 'trebuchet ms',arial,helvetica,sans-serif;
+	margin-top:-2px;
+	padding:0 3px 1px 3px;
+	font-size:12px;
+}
+
+/* Configure an arrow image - the script will automatically position it on the correct side of the tip */
+.tip-yellow .tip-arrow-top {
+	margin-top:-7px;
+	margin-left:15px;
+	top:100%;
+	left:0;
+	width:16px;
+	height:10px;
+	background:url(../img/tip-yellow_arrows.png) no-repeat;
+}
+.tip-yellow .tip-arrow-right {
+	margin-top:-9px; /* approx. half the height to center it */
+	margin-left:-4px;
+	top:50%;
+	left:100%;
+	width:10px;
+	height:20px;
+	background:url(../img/tip-yellow_arrows.png) no-repeat -16px 0;
+}
+.tip-yellow .tip-arrow-bottom {
+	margin-top:-6px;
+	margin-left:15px;
+	top:102%;
+	left:0;
+	width:16px;
+	height:13px;
+	background:url(../img/tip-yellow_arrows.png) no-repeat;
+}
+.tip-yellow .tip-arrow-left {
+	margin-top:-9px; /* approx. half the height to center it */
+	margin-left:-6px;
+	top:50%;
+	left:0;
+	width:10px;
+	height:20px;
+	background:url(../img/tip-yellow_arrows.png) no-repeat -48px 0;
+}

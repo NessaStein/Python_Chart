@@ -1,29 +1,53 @@
 <html>
 <head>
     <title>火车头抓取推送实时监控</title>
-    <script src="static/jquery.js"></script>
-    <script src="static/highstock.js"></script>
-    <script src="static/exporting.js"></script>
-    <link rel="stylesheet" href="static/demo.css">
-    <link rel="stylesheet" href="static/bootstrap.min.css">
+    <script src="static/spider/js/jquery.js"></script>
+    <script src="static/spider/js/highstock.js"></script>
+    <script src="static/spider/js/exporting.js"></script>
+    <link rel="stylesheet" href="static/spider/css/demo.css">
+    <link rel="stylesheet" href="static/spider/css/style.css">
+    <link rel="stylesheet" href="static/spider/css/bootstrap.min.css">
 </head>
 <body>
+
+<div class="htmleaf-container">
+    <nav class="animenu">
+        <button class="animenu__toggle">
+            <span class="animenu__toggle__bar"></span>
+            <span class="animenu__toggle__bar"></span>
+            <span class="animenu__toggle__bar"></span>
+        </button>
+        <ul class="animenu__nav">
+            <li>
+                <a href="/">首页</a>
+            </li>
+            <li>
+                <a href="/news">火车头</a>
+            </li>
+            <li>
+                <a href="/nodejs_thumb_img">缩图</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+
 <div id="demo">
     <div id="demo_content">
-        <p id="group_html">频道:  </p>
+        <p id="group_html">频道: </p>
         <input id="group_name" type="hidden" value="{{group_name}}"></input>
         <div id="container" style="height: 400px; min-width: 310px;"></div>
     </div>
 </div>
 <script>
-    Highcharts.setOptions({ global: { useUTC: false } });
+    Highcharts.setOptions({global: {useUTC: false}});
     $(function () {
         Highcharts.theme = {
             colors: ["#DDDF0D", "#7798BF", "#55BF3B", "#DF5353", "#aaeeee", "#ff0066", "#eeaaee",
                 "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
             chart: {
                 backgroundColor: {
-                    linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                    linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                     stops: [
                         [0, 'rgb(96, 96, 96)'],
                         [1, 'rgb(16, 16, 16)']
@@ -102,7 +126,7 @@
             },
             tooltip: {
                 backgroundColor: {
-                    linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                    linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                     stops: [
                         [0, 'rgba(96, 96, 96, .8)'],
                         [1, 'rgba(16, 16, 16, .8)']
@@ -154,7 +178,7 @@
                     hoverSymbolStroke: '#FFFFFF',
                     theme: {
                         fill: {
-                            linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                            linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                             stops: [
                                 [0.4, '#606060'],
                                 [0.6, '#333333']
@@ -169,7 +193,7 @@
             rangeSelector: {
                 buttonTheme: {
                     fill: {
-                        linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                        linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                         stops: [
                             [0.4, '#888'],
                             [0.6, '#555']
@@ -183,7 +207,7 @@
                     states: {
                         hover: {
                             fill: {
-                                linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                                linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                                 stops: [
                                     [0.4, '#BBB'],
                                     [0.6, '#888']
@@ -196,7 +220,7 @@
                         },
                         select: {
                             fill: {
-                                linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                                linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                                 stops: [
                                     [0.1, '#000'],
                                     [0.3, '#333']
@@ -233,25 +257,25 @@
 
             scrollbar: {
                 barBackgroundColor: {
-                        linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
-                        stops: [
-                            [0.4, '#888'],
-                            [0.6, '#555']
-                        ]
-                    },
+                    linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
+                    stops: [
+                        [0.4, '#888'],
+                        [0.6, '#555']
+                    ]
+                },
                 barBorderColor: '#CCC',
                 buttonArrowColor: '#CCC',
                 buttonBackgroundColor: {
-                        linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
-                        stops: [
-                            [0.4, '#888'],
-                            [0.6, '#555']
-                        ]
-                    },
+                    linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
+                    stops: [
+                        [0.4, '#888'],
+                        [0.6, '#555']
+                    ]
+                },
                 buttonBorderColor: '#CCC',
                 rifleColor: '#FFF',
                 trackBackgroundColor: {
-                    linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                    linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                     stops: [
                         [0, '#000'],
                         [1, '#333']
@@ -271,49 +295,49 @@
         var highchartsOptions = Highcharts.setOptions(Highcharts.theme);
 
         var seriesOptions = [],
-        seriesCounter = 0,
-        names = ['cmspull', 'spiderpush', 'spidergrab'],
+                seriesCounter = 0,
+                names = ['cmspull', 'spiderpush', 'spidergrab'],
         // create the chart when all data is loaded
-        createChart = function () {
-            Highcharts.setOptions({
-            lang: {
-               　 printChart:"打印图表",
-                  downloadJPEG: "下载JPEG 图片" ,
-                  downloadPDF: "下载PDF文档"  ,
-                  downloadPNG: "下载PNG 图片"  ,
-                  downloadSVG: "下载SVG 矢量图" ,
-                  exportButtonTitle: "导出图片"
-                }
-            });
-            $('#container').highcharts('StockChart', {
+                createChart = function () {
+                    Highcharts.setOptions({
+                        lang: {
+                            printChart: "打印图表",
+                            downloadJPEG: "下载JPEG 图片",
+                            downloadPDF: "下载PDF文档",
+                            downloadPNG: "下载PNG 图片",
+                            downloadSVG: "下载SVG 矢量图",
+                            exportButtonTitle: "导出图片"
+                        }
+                    });
+                    $('#container').highcharts('StockChart', {
 
-                rangeSelector: {
-                    selected: 4
-                },
+                        rangeSelector: {
+                            selected: 4
+                        },
 
-                title : {
-                    text : '火车头监控'
-                },
+                        title: {
+                            text: '火车头监控'
+                        },
 
-                tooltip: {
-                    valueDecimals: 0
-                },
+                        tooltip: {
+                            valueDecimals: 0
+                        },
 
-                series: seriesOptions
-            });
-        };
+                        series: seriesOptions
+                    });
+                };
         var group_name = $("#group_name").val();
         $.each(names, function (i, name) {
 
-            $.getJSON('/data/'+group_name+ '/' + name.toLowerCase(),    function (data) {
+            $.getJSON('/data/' + group_name + '/' + name.toLowerCase(), function (data) {
 
-                if(name=='cmspull'){
+                if (name == 'cmspull') {
                     name = 'CMS接收数'
                 }
-                if(name=='spiderpush'){
+                if (name == 'spiderpush') {
                     name = '火车头推送数'
                 }
-                if(name=='spidergrab'){
+                if (name == 'spidergrab') {
                     name = '火车头抓取数'
                 }
                 seriesOptions[i] = {
@@ -329,17 +353,17 @@
             });
         });
         $.getJSON('/groups', function (data) {
-            $.each(data, function(i, item) {
-                if(group_name==item){
-                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/'+item+'\'" class="btn btn-primary" theme="default">'+item+'</button>');
-                }else{
-                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/'+item+'\'" class="btn" theme="default">'+item+'</button>');
+            $.each(data, function (i, item) {
+                if (group_name == item) {
+                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/' + item + '\'" class="btn btn-primary" theme="default">' + item + '</button>');
+                } else {
+                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/' + item + '\'" class="btn" theme="default">' + item + '</button>');
                 }
 
             });
         })
 
-});
+    });
 
 </script>
 </body>

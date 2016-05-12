@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NodeJs缩图日志</title>
+    <link href="static/nodejs/css/bootstrap.css" rel="stylesheet">
+    <link href="static/nodejs/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="static/nodejs/css/tablecloth.css" rel="stylesheet">
+    <link href="static/nodejs/css/prettify.css" rel="stylesheet">
+    <link href="static/nodejs/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="htmleaf-container">
+    <nav class="animenu">
+        <button class="animenu__toggle">
+            <span class="animenu__toggle__bar"></span>
+            <span class="animenu__toggle__bar"></span>
+            <span class="animenu__toggle__bar"></span>
+        </button>
+        <ul class="animenu__nav">
+            <li>
+                <a href="/">首页</a>
+            </li>
+            <li>
+                <a href="/news">火车头</a>
+            </li>
+            <li>
+                <a href="/nodejs_thumb_img">缩图</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="span12" style="padding:20px 0;">
+
+            <table cellspacing="1" cellpadding="3" class="tablehead" style="background:#CCC;">
+                <caption>
+                    <span style="color:#FF0000;">一周内百分比倒序1000条</span>
+                </caption>
+                <thead>
+                <tr class="colhead">
+                    <th width="10%" class="{sorter: false}">日期</th>
+                    <th width="10%">缩图</th>
+                    <th width="10%">原图&nbsp;&nbsp;</th>
+                    <th width="10%" title="Pass attempts"><span style="color:#FF0000;">百分比(%)</span></th>
+                    <th width="10%">缩图宽&nbsp;&nbsp;</th>
+                    <th width="10%">缩图高&nbsp;&nbsp;</th>
+                    <th width="10%">原图宽&nbsp;&nbsp;</th>
+                    <th width="10%">原图高&nbsp;&nbsp;</th>
+                    <th width="10%" class="{sorter: false}">缩图URL</th>
+                    <th width="10%" class="{sorter: false}">原图URL</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for thumb_info in thumb_data %}
+                    <tr class="oddrow">
+                        <td width="10%">{{thumb_info.0}}</td>
+                        <td width="10%">{{thumb_info.1}}</td>
+                        <td width="10%">{{thumb_info.2}}</td>
+                        <td width="10%"><span style="color:#FF0000;">{{thumb_info.7}}</span></td>
+                        <td width="10%">{{thumb_info.3}}</td>
+                        <td width="10%">{{thumb_info.4}}</td>
+                        <td width="10%">{{thumb_info.5}}</td>
+                        <td width="10%">{{thumb_info.6}}</td>
+                        <td width="10%"><a target="_blank" href="{{thumb_info.8}}">查看缩图</a></td>
+                        <td width="10%"><a target="_blank" href="{{thumb_info.9}}">查看原图</a> </td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>
+
+<script src="static/nodejs/js/jquery-1.7.2.min.js"></script>
+<script src="static/nodejs/js/bootstrap.js"></script>
+<script src="static/nodejs/js/jquery.metadata.js"></script>
+<script src="static/nodejs/js/jquery.tablesorter.min.js"></script>
+<script src="static/nodejs/js/jquery.tablecloth.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function () {
+        $("table").tablecloth({
+            theme: "paper",
+            striped: true,
+            sortable: true,
+            condensed: true
+        });
+    });
+</script>
+</body>
+
+</html>

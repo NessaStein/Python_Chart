@@ -1,12 +1,12 @@
 <html>
 <head>
     <title>火车头抓取推送实时监控</title>
-    <script src="static/spider/js/jquery.js"></script>
-    <script src="static/spider/js/highstock.js"></script>
-    <script src="static/spider/js/exporting.js"></script>
-    <link rel="stylesheet" href="static/spider/css/demo.css">
-    <link rel="stylesheet" href="static/spider/css/style.css">
-    <link rel="stylesheet" href="static/spider/css/bootstrap.min.css">
+    <script src="/static/spider/js/jquery.js"></script>
+    <script src="/static/spider/js/highstock.js"></script>
+    <script src="/static/spider/js/exporting.js"></script>
+    <link rel="stylesheet" href="/static/spider/css/demo.css">
+    <link rel="stylesheet" href="/static/spider/css/style.css">
+    <link rel="stylesheet" href="/static/spider/css/bootstrap.min.css">
 </head>
 <body>
 
@@ -22,7 +22,7 @@
                 <a href="/">首页</a>
             </li>
             <li>
-                <a href="/news">火车头</a>
+                <a href="/news/hour">火车头</a>
             </li>
             <li>
                 <a href="/nodejs_thumb_img">缩图</a>
@@ -36,6 +36,8 @@
     <div id="demo_content">
         <p id="group_html">频道: </p>
         <input id="group_name" type="hidden" value="{{group_name}}"></input>
+        <input id="type" type="hidden" value="{{type}}"></input>
+        <p>统计类型: <a href="/{{group_name}}/hour">小时</a>   <a href="/{{group_name}}/day">天</a></p>
         <div id="container" style="height: 400px; min-width: 310px;"></div>
     </div>
 </div>
@@ -327,9 +329,10 @@
                     });
                 };
         var group_name = $("#group_name").val();
+        var type = $("#type").val();
         $.each(names, function (i, name) {
 
-            $.getJSON('/data/' + group_name + '/' + name.toLowerCase(), function (data) {
+            $.getJSON('/data/' + group_name + '/' + type + '/' + name.toLowerCase(), function (data) {
 
                 if (name == 'cmspull') {
                     name = 'CMS接收数'
@@ -355,9 +358,9 @@
         $.getJSON('/groups', function (data) {
             $.each(data, function (i, item) {
                 if (group_name == item) {
-                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/' + item + '\'" class="btn btn-primary" theme="default">' + item + '</button>');
+                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/' + item + '/' + type + '\'" class="btn btn-primary" theme="default">' + item + '</button>');
                 } else {
-                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/' + item + '\'" class="btn" theme="default">' + item + '</button>');
+                    $("#group_html").append('<button onclick="javascript:window.location.href=\'/' + item + '/' + type + '\'" class="btn" theme="default">' + item + '</button>');
                 }
 
             });

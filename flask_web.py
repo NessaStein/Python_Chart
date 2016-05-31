@@ -32,9 +32,9 @@ def welcome():
 
 
 #每个频道图表展现路由
-@app.route('/<group_name>')
-def index(group_name):
-    return render_template('spider/index.html',group_name=group_name)
+@app.route('/<group_name>/<type>')
+def index(group_name,type):
+    return render_template('spider/index.html',group_name=group_name,type=type)
 
 #nodejs缩图监路由
 @app.route('/nodejs_thumb_img')
@@ -69,26 +69,35 @@ def groups():
 
 
 #获取每个频道推送数据的路由
-@app.route('/data/<group_name>/<tag>')
-def data(group_name,tag):
+@app.route('/data/<group_name>/<type>/<tag>')
+def data(group_name,type,tag):
     cur = mysql_conn()
     tag_list = ['cmspull','spiderpush','spidergrab']
     arr = []
     if tag in tag_list:
         if tag == 'cmspull':
-            pull_sql = 'select time_hour,auto_check_count,no_check_count from cms_pull_logs where group_name="%s"' % (group_name)
+            if type == 'hour':
+                pull_sql = 'select time_hour,auto_check_count,no_check_count from cms_pull_logs where group_name="%s"' % (group_name)
+            if type == 'day':
+                pull_sql = 'select time_hour,auto_check_count,no_check_count from cms_pull_day_logs where group_name="%s"' % (group_name)
             cur.execute(pull_sql)
             for i in cur.fetchall():
                 arr.append([i[0]*1000,i[1]+i[2]])
 
         if tag == 'spiderpush':
-            push_sql = 'select time_hour,sum(push_count) as push_count from spider_push_logs where group_name="%s" group by time_hour' % (group_name)
+            if type == 'hour':
+                push_sql = 'select time_hour,sum(push_count) as push_count from spider_push_logs where group_name="%s" group by time_hour' % (group_name)
+            if type == 'day':
+                push_sql = 'select time_hour,sum(push_count) as push_count from spider_push_day_logs where group_name="%s" group by time_hour' % (group_name)
             cur.execute(push_sql)
             for j in cur.fetchall():
                 arr.append([j[0]*1000,int(j[1])])
 
         if tag == 'spidergrab':
-            grab_sql = 'select time_hour,grab_count from spider_grab_logs where group_name="%s"' % (group_name)
+            if type == 'hour':
+                grab_sql = 'select time_hour,grab_count from spider_grab_logs where group_name="%s"' % (group_name)
+            if type == 'day':
+                grab_sql = 'select time_hour,grab_count from spider_grab_day_logs where group_name="%s"' % (group_name)
             cur.execute(grab_sql)
             for k in cur.fetchall():
                 arr.append([k[0]*1000,k[1]])

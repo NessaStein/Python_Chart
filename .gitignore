@@ -5,12 +5,6 @@ config/common.ini
 
 *.txt
 
-logs/huochetou_auto.txt
-
-logs/huochetou_auto.txt
-
-logs/huochetou_city.txt
-
-logs/huochetou_culture.txt
+logs/*.txxt
 
 doc/*.png

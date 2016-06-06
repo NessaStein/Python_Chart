@@ -18,11 +18,3 @@ python分析日志文件,日志可以是apache、nginx的访问日志，也可�
 
 ###highcharts
 利用highcharts生成实时监控数据图表
-
-###效果图
-欢迎页
-![](https://raw.githubusercontent.com/guyfar/spider_charts/master/doc/wel.png)
-图表页
-![](https://raw.githubusercontent.com/guyfar/spider_charts/master/doc/charts.png)
-数据页
-![](https://raw.githubusercontent.com/guyfar/spider_charts/master/doc/node_pic.png)

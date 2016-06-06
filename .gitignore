@@ -12,3 +12,5 @@ logs/huochetou_auto.txt
 logs/huochetou_city.txt
 
 logs/huochetou_culture.txt
+
+doc/*.png

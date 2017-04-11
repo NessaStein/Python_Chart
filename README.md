@@ -23,7 +23,7 @@ python分析日志文件,日志可以是apache、nginx的访问日志，也可�
 
 1） 欢迎页
 
-![](doc/wek.png?raw=true)
+![](doc/wel.png?raw=true)
 
 2） 监控页
 

@@ -1,0 +1,57 @@
+group:culture--autocheck:1--dt:2016-03-08 03:08:26--category:11170625--title:有一种神秘的微笑叫闪电--ifbigpic:0--fromstr:huochetou--s:1403335f37ccf03c60a5fa4777d1c201
+group:culture--autocheck:1--dt:2016-03-08 03:08:28--category:11170625--title:女生更爱看电影，“她”经济开始崛起--ifbigpic:0--fromstr:huochetou--s:1403335f37ccf03c60a5fa4777d1c201
+group:culture--autocheck:1--dt:2016-03-08 03:08:30--category:11170625--title:你们津津乐道的“学霸”标签，却是他最想甩掉的--ifbigpic:0--fromstr:huochetou--s:1403335f37ccf03c60a5fa4777d1c201
+group:culture--autocheck:1--dt:2016-03-08 03:08:35--category:11170625--title:哈农库特 去年底退休，不料永久告别指挥台--ifbigpic:0--fromstr:huochetou--s:1403335f37ccf03c60a5fa4777d1c201
+group:culture--autocheck:1--dt:2016-03-08 08:08:27--category:11170621--title:单霁翔：增加北京历史文化保护区的保护范围--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:08:27--category:11170621--title:陈振濂：商人“押宝”书协选举是无奈的现实--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:08:28--category:11170621--title:致女性，请放下那碗鸡汤--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:25--category:11170621--title:古蜀文明遗址冲刺申遗 以金沙和三星堆为核心--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:25--category:11170621--title:广州“三坊七巷”成保护典范 开店有严格准入制度--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:26--category:11170621--title:“白马将军”张实杰离世 广州解放时曾骑马巡城--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:26--category:11170621--title:女生节横幅要“潮”不要俗--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:26--category:11170621--title:孩子的成人礼更在仪式外--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:27--category:11170621--title:《疯狂动物城》：直指偏见的政治寓言--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:27--category:11170621--title:新闻电影如何拍好？相比冲突，真实才是焦点--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:27--category:11170621--title:汉代为何重名多？大姓集中 皆以单字名为尊贵--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:28--category:11170621--title:“污染”并非从来就有 英国人曾认为煤烟有益健康--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 08:38:28--category:11170621--title:汉长安城未央宫遗址保护区突发火灾 部分草坪被毁--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:08:25--category:11170621--title:Sunshine到底能红多久？靠审丑博眼球行之不远--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:08:25--category:11170621--title:中央美院高考题吓蒙考生：画出未来转基因鱼--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:08:26--category:11170621--title:日全食奇观9日现身天宇 中国无缘目睹全过程--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:08:26--category:11170621--title:大理发现青铜时代遗址 还原数千年前的生活画面--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:08:26--category:11170621--title:商王武丁与妇好恩爱 甲骨文详细记载妻子身体状况--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:38:25--category:11170621--title:弹幕网站成社交网站新焦点 评：开启一个新时代--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:38:25--category:11170621--title:《关雎》是表现爱情主题吗？表面求凰，实则求贤--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 09:38:26--category:11170621--title:高校女生节忙坏男生：送早点、挂横幅、取快递--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 10:08:25--category:11170621--title:晓风书屋分店开进医院 病人可边打点滴边读书--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 10:08:25--category:11170621--title:唐代李畲青史留名因母亲清廉 侯敏则得益于贤妻--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 10:08:25--category:11170621--title:明朝太医院分为13科 接近现代医院科室设置--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 10:08:26--category:11170626--title:
+        三台新编戏聚焦“中国传奇女性”
+        --ifbigpic:0--fromstr:huochetou--s:42dba2e5f96d74457c2a2b77a6372811
+group:culture--autocheck:1--dt:2016-03-08 10:08:27--category:11170626--title:
+        畅销作家解读女性一生中的9道题
+        --ifbigpic:0--fromstr:huochetou--s:42dba2e5f96d74457c2a2b77a6372811
+group:culture--autocheck:1--dt:2016-03-08 10:08:35--category:11170626--title:
+        “学雷锋·开放日”活动在沪举行
+        --ifbigpic:0--fromstr:huochetou--s:42dba2e5f96d74457c2a2b77a6372811
+group:culture--autocheck:1--dt:2016-03-08 10:08:35--category:11170626--title:
+        莱比锡音乐名片《马太受难曲》昨晚中国首演
+        --ifbigpic:0--fromstr:huochetou--s:42dba2e5f96d74457c2a2b77a6372811
+group:culture--autocheck:1--dt:2016-03-08 10:08:35--category:11170626--title:
+        动物世界的“纸牌屋”？点到即止的政治剧
+        --ifbigpic:0--fromstr:huochetou--s:42dba2e5f96d74457c2a2b77a6372811
+group:culture--autocheck:1--dt:2016-03-08 10:08:37--category:11170626--title:
+        “海昏侯墓提供了刘贺的另一面”
+        --ifbigpic:0--fromstr:huochetou--s:42dba2e5f96d74457c2a2b77a6372811
+group:culture--autocheck:1--dt:2016-03-08 10:38:25--category:11170621--title:妇好生前是古玩收藏家 对玉器有很高艺术品味--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 11:38:28--category:11170621--title:福建本性禅师应邀赴巴黎举办中国禅系列讲座--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 11:38:28--category:11170621--title:意大利博物馆馆长因“工作时间过长”遭工会批评--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 11:38:28--category:11170621--title:邓文迪被曝结新欢 神秘小男友系英国顶尖小提琴家--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 11:38:29--category:11170621--title:18岁“史学奇才”林嘉文遗作难求 目前已售罄(图)--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 11:38:29--category:11170621--title:山西方山县发现石刻“买地券” 为明代随葬品--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 14:38:24--category:11170621--title:网友关注的女孩类型调查：女神关注度不及女汉子--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 14:38:25--category:11170621--title:高校男生为女同学过节：挂横幅“献媚” 派“镖师”送餐--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 14:38:25--category:11170621--title:学者：“脸谱”未来或成全球最大“虚拟坟场”--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 14:38:25--category:11170621--title:徐州一处文保建筑将平移 在240多米外“安家”--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
+group:culture--autocheck:1--dt:2016-03-08 14:38:25--category:11170621--title:国家话剧院院长：用票价解决演员收入只能导致高票价--ifbigpic:0--fromstr:huochetou--s:ff37470f69e23ba1c6aa2512b5661147
